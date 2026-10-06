@@ -12463,4 +12463,43 @@ class AppLocalizationsHu extends AppLocalizations {
 
   @override
   String get showOnLockScreen => 'Megjelenítés a zárolási képernyőn';
+
+  @override
+  String get onboardingConfiguringTitle => 'Omi beállítása';
+
+  @override
+  String get onboardingConfiguringSubtitle => 'Adj egy pillanatot az Ominak a személyre szabáshoz';
+
+  @override
+  String get onboardingConfiguringStepVoice => 'Tanulja a hangodat';
+
+  @override
+  String get onboardingConfiguringStepLanguage => 'Ráhangolódik a nyelvedre';
+
+  @override
+  String get onboardingConfiguringStepMemories => 'Elmenti, amit megosztottál';
+
+  @override
+  String get onboardingConfiguringStepGraph => 'Feltérképezi, ami fontos neked';
+
+  @override
+  String get onboardingConfiguringStepSummaries => 'Előkészíti a beszélgetések összefoglalóit';
+
+  @override
+  String get onboardingConfiguringStepReminders => 'Okos emlékeztetőket állít be';
+
+  @override
+  String get onboardingConfiguringStepPersonalize => 'Személyre szabja az Omit';
+
+  @override
+  String get onboardingConfiguringReviewTitle => 'Amíg vársz: eddig szívesen használtad az Omit?';
+
+  @override
+  String get onboardingConfiguringReviewBody => 'Az 5 csillagos értékelés nagyon sokat segít! 🤍';
+
+  @override
+  String get onboardingConfiguringReviewYes => 'Igen, támogatni szeretnélek titeket!';
+
+  @override
+  String get onboardingConfiguringReviewNo => 'Nem igazán';
 }

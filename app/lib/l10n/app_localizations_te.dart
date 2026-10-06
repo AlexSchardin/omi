@@ -12466,4 +12466,43 @@ class AppLocalizationsTe extends AppLocalizations {
 
   @override
   String get showOnLockScreen => 'లాక్ స్క్రీన్‌పై చూపించు';
+
+  @override
+  String get onboardingConfiguringTitle => 'మీ Omi సెటప్ అవుతోంది';
+
+  @override
+  String get onboardingConfiguringSubtitle => 'వ్యక్తిగతీకరించడానికి Omiకి కొంత సమయం ఇవ్వండి';
+
+  @override
+  String get onboardingConfiguringStepVoice => 'మీ స్వరాన్ని నేర్చుకుంటోంది';
+
+  @override
+  String get onboardingConfiguringStepLanguage => 'మీ భాషకు అనుగుణంగా మారుతోంది';
+
+  @override
+  String get onboardingConfiguringStepMemories => 'మీరు పంచుకున్నది సేవ్ చేస్తోంది';
+
+  @override
+  String get onboardingConfiguringStepGraph => 'మీకు ముఖ్యమైనవి గుర్తిస్తోంది';
+
+  @override
+  String get onboardingConfiguringStepSummaries => 'మీ సంభాషణల సారాంశాలు సిద్ధం చేస్తోంది';
+
+  @override
+  String get onboardingConfiguringStepReminders => 'స్మార్ట్ రిమైండర్‌లు సెటప్ చేస్తోంది';
+
+  @override
+  String get onboardingConfiguringStepPersonalize => 'మీ Omiని వ్యక్తిగతీకరిస్తోంది';
+
+  @override
+  String get onboardingConfiguringReviewTitle => 'వేచి ఉండగా, ఇప్పటివరకు Omi వాడటం బాగుందా?';
+
+  @override
+  String get onboardingConfiguringReviewBody => '5 స్టార్ రేటింగ్ మాకు నిజంగా చాలా సహాయపడుతుంది! 🤍';
+
+  @override
+  String get onboardingConfiguringReviewYes => 'అవును, మీకు మద్దతు ఇవ్వాలనుకుంటున్నాను!';
+
+  @override
+  String get onboardingConfiguringReviewNo => 'అంతగా కాదు';
 }

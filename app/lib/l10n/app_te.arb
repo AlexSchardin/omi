@@ -11396,5 +11396,18 @@
     "dismiss": "దాచు",
     "syncCardDownloadPercent": "{percent}%",
     "syncCardDownloadPercentSpeed": "{percent}% · {speed} KB/s",
-    "showOnLockScreen": "లాక్ స్క్రీన్‌పై చూపించు"
+    "showOnLockScreen": "లాక్ స్క్రీన్‌పై చూపించు",
+    "onboardingConfiguringTitle": "మీ Omi సెటప్ అవుతోంది",
+    "onboardingConfiguringSubtitle": "వ్యక్తిగతీకరించడానికి Omiకి కొంత సమయం ఇవ్వండి",
+    "onboardingConfiguringStepVoice": "మీ స్వరాన్ని నేర్చుకుంటోంది",
+    "onboardingConfiguringStepLanguage": "మీ భాషకు అనుగుణంగా మారుతోంది",
+    "onboardingConfiguringStepMemories": "మీరు పంచుకున్నది సేవ్ చేస్తోంది",
+    "onboardingConfiguringStepGraph": "మీకు ముఖ్యమైనవి గుర్తిస్తోంది",
+    "onboardingConfiguringStepSummaries": "మీ సంభాషణల సారాంశాలు సిద్ధం చేస్తోంది",
+    "onboardingConfiguringStepReminders": "స్మార్ట్ రిమైండర్‌లు సెటప్ చేస్తోంది",
+    "onboardingConfiguringStepPersonalize": "మీ Omiని వ్యక్తిగతీకరిస్తోంది",
+    "onboardingConfiguringReviewTitle": "వేచి ఉండగా, ఇప్పటివరకు Omi వాడటం బాగుందా?",
+    "onboardingConfiguringReviewBody": "5 స్టార్ రేటింగ్ మాకు నిజంగా చాలా సహాయపడుతుంది! 🤍",
+    "onboardingConfiguringReviewYes": "అవును, మీకు మద్దతు ఇవ్వాలనుకుంటున్నాను!",
+    "onboardingConfiguringReviewNo": "అంతగా కాదు"
 }

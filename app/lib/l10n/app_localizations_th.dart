@@ -12349,4 +12349,43 @@ class AppLocalizationsTh extends AppLocalizations {
 
   @override
   String get showOnLockScreen => 'แสดงบนหน้าจอล็อก';
+
+  @override
+  String get onboardingConfiguringTitle => 'กำลังตั้งค่า Omi ของคุณ';
+
+  @override
+  String get onboardingConfiguringSubtitle => 'รอสักครู่ให้ Omi ปรับให้เหมาะกับคุณ';
+
+  @override
+  String get onboardingConfiguringStepVoice => 'กำลังเรียนรู้เสียงของคุณ';
+
+  @override
+  String get onboardingConfiguringStepLanguage => 'กำลังปรับให้เข้ากับภาษาของคุณ';
+
+  @override
+  String get onboardingConfiguringStepMemories => 'กำลังบันทึกสิ่งที่คุณแชร์';
+
+  @override
+  String get onboardingConfiguringStepGraph => 'กำลังจัดระเบียบสิ่งที่สำคัญกับคุณ';
+
+  @override
+  String get onboardingConfiguringStepSummaries => 'กำลังเตรียมสรุปบทสนทนาของคุณ';
+
+  @override
+  String get onboardingConfiguringStepReminders => 'กำลังตั้งค่าการแจ้งเตือนอัจฉริยะ';
+
+  @override
+  String get onboardingConfiguringStepPersonalize => 'กำลังปรับแต่ง Omi ของคุณ';
+
+  @override
+  String get onboardingConfiguringReviewTitle => 'ระหว่างรอ ใช้ Omi มาถึงตอนนี้ถูกใจไหม?';
+
+  @override
+  String get onboardingConfiguringReviewBody => 'การให้คะแนน 5 ดาวช่วยเราได้มากจริงๆ! 🤍';
+
+  @override
+  String get onboardingConfiguringReviewYes => 'ใช่ อยากสนับสนุนเลย!';
+
+  @override
+  String get onboardingConfiguringReviewNo => 'ไม่ค่อย';
 }

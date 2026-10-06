@@ -11396,5 +11396,18 @@
     "dismiss": "Isara",
     "syncCardDownloadPercent": "{percent}%",
     "syncCardDownloadPercentSpeed": "{percent}% · {speed} KB/s",
-    "showOnLockScreen": "Ipakita sa lock screen"
+    "showOnLockScreen": "Ipakita sa lock screen",
+    "onboardingConfiguringTitle": "Sine-set up ang iyong Omi",
+    "onboardingConfiguringSubtitle": "Bigyan ang Omi ng sandali para mag-personalize",
+    "onboardingConfiguringStepVoice": "Inaaral ang iyong boses",
+    "onboardingConfiguringStepLanguage": "Iniaangkop sa iyong wika",
+    "onboardingConfiguringStepMemories": "Sine-save ang iyong ibinahagi",
+    "onboardingConfiguringStepGraph": "Minamapa ang mahalaga sa iyo",
+    "onboardingConfiguringStepSummaries": "Inihahanda ang buod ng iyong mga usapan",
+    "onboardingConfiguringStepReminders": "Sine-set up ang mga smart reminder",
+    "onboardingConfiguringStepPersonalize": "Pine-personalize ang iyong Omi",
+    "onboardingConfiguringReviewTitle": "Habang naghihintay, naging maganda ba ang paggamit ng Omi?",
+    "onboardingConfiguringReviewBody": "Malaking tulong sa amin ang 5-star na rating! 🤍",
+    "onboardingConfiguringReviewYes": "Oo, gusto ko kayong suportahan!",
+    "onboardingConfiguringReviewNo": "Hindi masyado"
 }

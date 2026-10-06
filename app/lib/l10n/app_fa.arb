@@ -11396,5 +11396,18 @@
     "dismiss": "رد کردن",
     "syncCardDownloadPercent": "{percent}%",
     "syncCardDownloadPercentSpeed": "{percent}% · {speed} KB/s",
-    "showOnLockScreen": "نمایش در صفحهٔ قفل"
+    "showOnLockScreen": "نمایش در صفحهٔ قفل",
+    "onboardingConfiguringTitle": "در حال راه‌اندازی Omi شما",
+    "onboardingConfiguringSubtitle": "کمی به Omi فرصت دهید تا شخصی‌سازی شود",
+    "onboardingConfiguringStepVoice": "در حال یادگیری صدای شما",
+    "onboardingConfiguringStepLanguage": "در حال تنظیم با زبان شما",
+    "onboardingConfiguringStepMemories": "در حال ذخیرهٔ آنچه به اشتراک گذاشتید",
+    "onboardingConfiguringStepGraph": "در حال ترسیم آنچه برایتان مهم است",
+    "onboardingConfiguringStepSummaries": "در حال آماده‌سازی خلاصهٔ گفتگوهایتان",
+    "onboardingConfiguringStepReminders": "در حال تنظیم یادآورهای هوشمند",
+    "onboardingConfiguringStepPersonalize": "در حال شخصی‌سازی Omi شما",
+    "onboardingConfiguringReviewTitle": "تا منتظرید، تا الان از Omi راضی بوده‌اید؟",
+    "onboardingConfiguringReviewBody": "امتیاز ۵ ستاره واقعاً به ما کمک می‌کند! 🤍",
+    "onboardingConfiguringReviewYes": "بله، می‌خواهم حمایتتان کنم!",
+    "onboardingConfiguringReviewNo": "نه چندان"
 }

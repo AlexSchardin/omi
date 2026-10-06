@@ -11396,5 +11396,18 @@
     "dismiss": "மறை",
     "syncCardDownloadPercent": "{percent}%",
     "syncCardDownloadPercentSpeed": "{percent}% · {speed} KB/s",
-    "showOnLockScreen": "பூட்டுத் திரையில் காட்டு"
+    "showOnLockScreen": "பூட்டுத் திரையில் காட்டு",
+    "onboardingConfiguringTitle": "உங்கள் Omi அமைக்கப்படுகிறது",
+    "onboardingConfiguringSubtitle": "தனிப்பயனாக்க Omi-க்கு சிறிது நேரம் கொடுங்கள்",
+    "onboardingConfiguringStepVoice": "உங்கள் குரலைக் கற்றுக்கொள்கிறது",
+    "onboardingConfiguringStepLanguage": "உங்கள் மொழிக்கு ஏற்ப மாறுகிறது",
+    "onboardingConfiguringStepMemories": "நீங்கள் பகிர்ந்ததைச் சேமிக்கிறது",
+    "onboardingConfiguringStepGraph": "உங்களுக்கு முக்கியமானதை வரைபடமாக்குகிறது",
+    "onboardingConfiguringStepSummaries": "உரையாடல் சுருக்கங்களைத் தயாரிக்கிறது",
+    "onboardingConfiguringStepReminders": "ஸ்மார்ட் நினைவூட்டல்களை அமைக்கிறது",
+    "onboardingConfiguringStepPersonalize": "உங்கள் Omi-ஐத் தனிப்பயனாக்குகிறது",
+    "onboardingConfiguringReviewTitle": "காத்திருக்கும்போது, இதுவரை Omi பயன்படுத்த நன்றாக இருந்ததா?",
+    "onboardingConfiguringReviewBody": "5 நட்சத்திர மதிப்பீடு எங்களுக்கு மிகவும் உதவும்! 🤍",
+    "onboardingConfiguringReviewYes": "ஆம், உங்களை ஆதரிக்க விரும்புகிறேன்!",
+    "onboardingConfiguringReviewNo": "அவ்வளவாக இல்லை"
 }

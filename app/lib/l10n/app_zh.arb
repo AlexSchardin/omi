@@ -3839,5 +3839,18 @@
     "dismiss": "忽略",
     "syncCardDownloadPercent": "{percent}%",
     "syncCardDownloadPercentSpeed": "{percent}% · {speed} KB/s",
-    "showOnLockScreen": "在锁定屏幕上显示"
+    "showOnLockScreen": "在锁定屏幕上显示",
+    "onboardingConfiguringTitle": "正在设置你的 Omi",
+    "onboardingConfiguringSubtitle": "请稍候，Omi 正在为你个性化",
+    "onboardingConfiguringStepVoice": "正在学习你的声音",
+    "onboardingConfiguringStepLanguage": "正在适配你的语言",
+    "onboardingConfiguringStepMemories": "正在保存你分享的内容",
+    "onboardingConfiguringStepGraph": "正在梳理对你重要的事",
+    "onboardingConfiguringStepSummaries": "正在准备你的对话摘要",
+    "onboardingConfiguringStepReminders": "正在设置智能提醒",
+    "onboardingConfiguringStepPersonalize": "正在个性化你的 Omi",
+    "onboardingConfiguringReviewTitle": "等待期间想问问：目前用 Omi 还顺心吗？",
+    "onboardingConfiguringReviewBody": "给我们五星好评真的帮助很大！🤍",
+    "onboardingConfiguringReviewYes": "是的，我想支持你们！",
+    "onboardingConfiguringReviewNo": "不太好"
 }

@@ -12458,4 +12458,43 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get showOnLockScreen => 'Показывать на экране блокировки';
+
+  @override
+  String get onboardingConfiguringTitle => 'Настраиваем ваш Omi';
+
+  @override
+  String get onboardingConfiguringSubtitle => 'Дайте Omi минутку на персонализацию';
+
+  @override
+  String get onboardingConfiguringStepVoice => 'Изучаем ваш голос';
+
+  @override
+  String get onboardingConfiguringStepLanguage => 'Настраиваемся на ваш язык';
+
+  @override
+  String get onboardingConfiguringStepMemories => 'Сохраняем то, чем вы поделились';
+
+  @override
+  String get onboardingConfiguringStepGraph => 'Отмечаем то, что для вас важно';
+
+  @override
+  String get onboardingConfiguringStepSummaries => 'Готовим сводки ваших разговоров';
+
+  @override
+  String get onboardingConfiguringStepReminders => 'Настраиваем умные напоминания';
+
+  @override
+  String get onboardingConfiguringStepPersonalize => 'Персонализируем ваш Omi';
+
+  @override
+  String get onboardingConfiguringReviewTitle => 'Пока ждёте: нравится ли вам пользоваться Omi?';
+
+  @override
+  String get onboardingConfiguringReviewBody => 'Оценка в 5 звёзд очень нам поможет! 🤍';
+
+  @override
+  String get onboardingConfiguringReviewYes => 'Да, хочу вас поддержать!';
+
+  @override
+  String get onboardingConfiguringReviewNo => 'Не очень';
 }

@@ -12446,4 +12446,43 @@ class AppLocalizationsMs extends AppLocalizations {
 
   @override
   String get showOnLockScreen => 'Tunjukkan pada skrin kunci';
+
+  @override
+  String get onboardingConfiguringTitle => 'Menyediakan Omi anda';
+
+  @override
+  String get onboardingConfiguringSubtitle => 'Beri Omi seketika untuk diperibadikan';
+
+  @override
+  String get onboardingConfiguringStepVoice => 'Mempelajari suara anda';
+
+  @override
+  String get onboardingConfiguringStepLanguage => 'Menyesuaikan dengan bahasa anda';
+
+  @override
+  String get onboardingConfiguringStepMemories => 'Menyimpan apa yang anda kongsi';
+
+  @override
+  String get onboardingConfiguringStepGraph => 'Memetakan perkara penting bagi anda';
+
+  @override
+  String get onboardingConfiguringStepSummaries => 'Menyediakan ringkasan perbualan anda';
+
+  @override
+  String get onboardingConfiguringStepReminders => 'Menyediakan peringatan pintar';
+
+  @override
+  String get onboardingConfiguringStepPersonalize => 'Memperibadikan Omi anda';
+
+  @override
+  String get onboardingConfiguringReviewTitle => 'Sementara menunggu, adakah Omi menyenangkan setakat ini?';
+
+  @override
+  String get onboardingConfiguringReviewBody => 'Penarafan 5 bintang sangat membantu kami! 🤍';
+
+  @override
+  String get onboardingConfiguringReviewYes => 'Ya, saya mahu menyokong anda!';
+
+  @override
+  String get onboardingConfiguringReviewNo => 'Tidak sangat';
 }

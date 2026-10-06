@@ -12516,4 +12516,43 @@ class AppLocalizationsTl extends AppLocalizations {
 
   @override
   String get showOnLockScreen => 'Ipakita sa lock screen';
+
+  @override
+  String get onboardingConfiguringTitle => 'Sine-set up ang iyong Omi';
+
+  @override
+  String get onboardingConfiguringSubtitle => 'Bigyan ang Omi ng sandali para mag-personalize';
+
+  @override
+  String get onboardingConfiguringStepVoice => 'Inaaral ang iyong boses';
+
+  @override
+  String get onboardingConfiguringStepLanguage => 'Iniaangkop sa iyong wika';
+
+  @override
+  String get onboardingConfiguringStepMemories => 'Sine-save ang iyong ibinahagi';
+
+  @override
+  String get onboardingConfiguringStepGraph => 'Minamapa ang mahalaga sa iyo';
+
+  @override
+  String get onboardingConfiguringStepSummaries => 'Inihahanda ang buod ng iyong mga usapan';
+
+  @override
+  String get onboardingConfiguringStepReminders => 'Sine-set up ang mga smart reminder';
+
+  @override
+  String get onboardingConfiguringStepPersonalize => 'Pine-personalize ang iyong Omi';
+
+  @override
+  String get onboardingConfiguringReviewTitle => 'Habang naghihintay, naging maganda ba ang paggamit ng Omi?';
+
+  @override
+  String get onboardingConfiguringReviewBody => 'Malaking tulong sa amin ang 5-star na rating! 🤍';
+
+  @override
+  String get onboardingConfiguringReviewYes => 'Oo, gusto ko kayong suportahan!';
+
+  @override
+  String get onboardingConfiguringReviewNo => 'Hindi masyado';
 }

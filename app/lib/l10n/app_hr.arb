@@ -11396,5 +11396,18 @@
     "dismiss": "Sakrij",
     "syncCardDownloadPercent": "{percent}%",
     "syncCardDownloadPercentSpeed": "{percent}% · {speed} KB/s",
-    "showOnLockScreen": "Prikaži na zaključanom zaslonu"
+    "showOnLockScreen": "Prikaži na zaključanom zaslonu",
+    "onboardingConfiguringTitle": "Postavljamo vaš Omi",
+    "onboardingConfiguringSubtitle": "Dajte Omiju trenutak za personalizaciju",
+    "onboardingConfiguringStepVoice": "Učimo vaš glas",
+    "onboardingConfiguringStepLanguage": "Prilagođavamo se vašem jeziku",
+    "onboardingConfiguringStepMemories": "Spremamo ono što ste podijelili",
+    "onboardingConfiguringStepGraph": "Mapiramo ono što vam je važno",
+    "onboardingConfiguringStepSummaries": "Pripremamo sažetke vaših razgovora",
+    "onboardingConfiguringStepReminders": "Postavljamo pametne podsjetnike",
+    "onboardingConfiguringStepPersonalize": "Personaliziramo vaš Omi",
+    "onboardingConfiguringReviewTitle": "Dok čekate: je li vam Omi zasad ugodan za korištenje?",
+    "onboardingConfiguringReviewBody": "Ocjena s 5 zvjezdica stvarno nam pomaže! 🤍",
+    "onboardingConfiguringReviewYes": "Da, želim vas podržati!",
+    "onboardingConfiguringReviewNo": "Baš i ne"
 }

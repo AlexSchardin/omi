@@ -3839,5 +3839,18 @@
     "dismiss": "Ascunde",
     "syncCardDownloadPercent": "{percent}%",
     "syncCardDownloadPercentSpeed": "{percent}% · {speed} KB/s",
-    "showOnLockScreen": "Afișează pe ecranul de blocare"
+    "showOnLockScreen": "Afișează pe ecranul de blocare",
+    "onboardingConfiguringTitle": "Configurăm Omi-ul tău",
+    "onboardingConfiguringSubtitle": "Lasă-i lui Omi un moment să se personalizeze",
+    "onboardingConfiguringStepVoice": "Îți învață vocea",
+    "onboardingConfiguringStepLanguage": "Se adaptează la limba ta",
+    "onboardingConfiguringStepMemories": "Salvează ce ai împărtășit",
+    "onboardingConfiguringStepGraph": "Cartografiază ce contează pentru tine",
+    "onboardingConfiguringStepSummaries": "Pregătește rezumatele conversațiilor",
+    "onboardingConfiguringStepReminders": "Configurează mementouri inteligente",
+    "onboardingConfiguringStepPersonalize": "Personalizează Omi-ul tău",
+    "onboardingConfiguringReviewTitle": "Cât aștepți: îți place Omi până acum?",
+    "onboardingConfiguringReviewBody": "O notă de 5 stele ne ajută enorm! 🤍",
+    "onboardingConfiguringReviewYes": "Da, vreau să vă susțin!",
+    "onboardingConfiguringReviewNo": "Nu prea"
 }

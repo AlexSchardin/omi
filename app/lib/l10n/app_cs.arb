@@ -3839,5 +3839,18 @@
     "dismiss": "Skrýt",
     "syncCardDownloadPercent": "{percent}%",
     "syncCardDownloadPercentSpeed": "{percent}% · {speed} KB/s",
-    "showOnLockScreen": "Zobrazit na zamčené obrazovce"
+    "showOnLockScreen": "Zobrazit na zamčené obrazovce",
+    "onboardingConfiguringTitle": "Nastavujeme váš Omi",
+    "onboardingConfiguringSubtitle": "Dejte Omi chvilku na přizpůsobení",
+    "onboardingConfiguringStepVoice": "Učíme se váš hlas",
+    "onboardingConfiguringStepLanguage": "Ladíme se na váš jazyk",
+    "onboardingConfiguringStepMemories": "Ukládáme, co jste sdíleli",
+    "onboardingConfiguringStepGraph": "Mapujeme, na čem vám záleží",
+    "onboardingConfiguringStepSummaries": "Připravujeme shrnutí vašich konverzací",
+    "onboardingConfiguringStepReminders": "Nastavujeme chytré připomínky",
+    "onboardingConfiguringStepPersonalize": "Přizpůsobujeme váš Omi",
+    "onboardingConfiguringReviewTitle": "Než počkáte: líbí se vám zatím Omi?",
+    "onboardingConfiguringReviewBody": "Hodnocení 5 hvězdičkami nám moc pomůže! 🤍",
+    "onboardingConfiguringReviewYes": "Ano, chci vás podpořit!",
+    "onboardingConfiguringReviewNo": "Ani ne"
 }

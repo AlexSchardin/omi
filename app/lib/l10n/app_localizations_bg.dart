@@ -12460,4 +12460,43 @@ class AppLocalizationsBg extends AppLocalizations {
 
   @override
   String get showOnLockScreen => 'Показване на заключения екран';
+
+  @override
+  String get onboardingConfiguringTitle => 'Настройваме вашия Omi';
+
+  @override
+  String get onboardingConfiguringSubtitle => 'Дайте на Omi момент за персонализиране';
+
+  @override
+  String get onboardingConfiguringStepVoice => 'Научаваме гласа ви';
+
+  @override
+  String get onboardingConfiguringStepLanguage => 'Настройваме се към езика ви';
+
+  @override
+  String get onboardingConfiguringStepMemories => 'Запазваме споделеното от вас';
+
+  @override
+  String get onboardingConfiguringStepGraph => 'Отбелязваме важното за вас';
+
+  @override
+  String get onboardingConfiguringStepSummaries => 'Подготвяме обобщенията на разговорите ви';
+
+  @override
+  String get onboardingConfiguringStepReminders => 'Настройваме умни напомняния';
+
+  @override
+  String get onboardingConfiguringStepPersonalize => 'Персонализираме вашия Omi';
+
+  @override
+  String get onboardingConfiguringReviewTitle => 'Докато чакате: харесва ли ви Omi досега?';
+
+  @override
+  String get onboardingConfiguringReviewBody => 'Оценка с 5 звезди наистина ни помага! 🤍';
+
+  @override
+  String get onboardingConfiguringReviewYes => 'Да, искам да ви подкрепя!';
+
+  @override
+  String get onboardingConfiguringReviewNo => 'Не особено';
 }

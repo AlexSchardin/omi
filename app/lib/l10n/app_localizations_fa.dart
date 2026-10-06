@@ -12413,4 +12413,43 @@ class AppLocalizationsFa extends AppLocalizations {
 
   @override
   String get showOnLockScreen => 'نمایش در صفحهٔ قفل';
+
+  @override
+  String get onboardingConfiguringTitle => 'در حال راه‌اندازی Omi شما';
+
+  @override
+  String get onboardingConfiguringSubtitle => 'کمی به Omi فرصت دهید تا شخصی‌سازی شود';
+
+  @override
+  String get onboardingConfiguringStepVoice => 'در حال یادگیری صدای شما';
+
+  @override
+  String get onboardingConfiguringStepLanguage => 'در حال تنظیم با زبان شما';
+
+  @override
+  String get onboardingConfiguringStepMemories => 'در حال ذخیرهٔ آنچه به اشتراک گذاشتید';
+
+  @override
+  String get onboardingConfiguringStepGraph => 'در حال ترسیم آنچه برایتان مهم است';
+
+  @override
+  String get onboardingConfiguringStepSummaries => 'در حال آماده‌سازی خلاصهٔ گفتگوهایتان';
+
+  @override
+  String get onboardingConfiguringStepReminders => 'در حال تنظیم یادآورهای هوشمند';
+
+  @override
+  String get onboardingConfiguringStepPersonalize => 'در حال شخصی‌سازی Omi شما';
+
+  @override
+  String get onboardingConfiguringReviewTitle => 'تا منتظرید، تا الان از Omi راضی بوده‌اید؟';
+
+  @override
+  String get onboardingConfiguringReviewBody => 'امتیاز ۵ ستاره واقعاً به ما کمک می‌کند! 🤍';
+
+  @override
+  String get onboardingConfiguringReviewYes => 'بله، می‌خواهم حمایتتان کنم!';
+
+  @override
+  String get onboardingConfiguringReviewNo => 'نه چندان';
 }

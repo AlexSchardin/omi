@@ -12204,4 +12204,43 @@ class AppLocalizationsZh extends AppLocalizations {
 
   @override
   String get showOnLockScreen => '在锁定屏幕上显示';
+
+  @override
+  String get onboardingConfiguringTitle => '正在设置你的 Omi';
+
+  @override
+  String get onboardingConfiguringSubtitle => '请稍候，Omi 正在为你个性化';
+
+  @override
+  String get onboardingConfiguringStepVoice => '正在学习你的声音';
+
+  @override
+  String get onboardingConfiguringStepLanguage => '正在适配你的语言';
+
+  @override
+  String get onboardingConfiguringStepMemories => '正在保存你分享的内容';
+
+  @override
+  String get onboardingConfiguringStepGraph => '正在梳理对你重要的事';
+
+  @override
+  String get onboardingConfiguringStepSummaries => '正在准备你的对话摘要';
+
+  @override
+  String get onboardingConfiguringStepReminders => '正在设置智能提醒';
+
+  @override
+  String get onboardingConfiguringStepPersonalize => '正在个性化你的 Omi';
+
+  @override
+  String get onboardingConfiguringReviewTitle => '等待期间想问问：目前用 Omi 还顺心吗？';
+
+  @override
+  String get onboardingConfiguringReviewBody => '给我们五星好评真的帮助很大！🤍';
+
+  @override
+  String get onboardingConfiguringReviewYes => '是的，我想支持你们！';
+
+  @override
+  String get onboardingConfiguringReviewNo => '不太好';
 }

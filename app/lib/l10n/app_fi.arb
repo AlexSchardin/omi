@@ -3839,5 +3839,18 @@
     "dismiss": "Hylkää",
     "syncCardDownloadPercent": "{percent}%",
     "syncCardDownloadPercentSpeed": "{percent}% · {speed} KB/s",
-    "showOnLockScreen": "Näytä lukitusnäytöllä"
+    "showOnLockScreen": "Näytä lukitusnäytöllä",
+    "onboardingConfiguringTitle": "Omiasi määritetään",
+    "onboardingConfiguringSubtitle": "Anna Omille hetki mukautua",
+    "onboardingConfiguringStepVoice": "Opitaan äänesi",
+    "onboardingConfiguringStepLanguage": "Viritytään kieleesi",
+    "onboardingConfiguringStepMemories": "Tallennetaan jakamasi asiat",
+    "onboardingConfiguringStepGraph": "Kartoitetaan sinulle tärkeät asiat",
+    "onboardingConfiguringStepSummaries": "Valmistellaan keskustelujesi yhteenvetoja",
+    "onboardingConfiguringStepReminders": "Määritetään älykkäitä muistutuksia",
+    "onboardingConfiguringStepPersonalize": "Mukautetaan Omiasi",
+    "onboardingConfiguringReviewTitle": "Odotellessa: onko Omi ollut mukava käyttää?",
+    "onboardingConfiguringReviewBody": "5 tähden arvio auttaa meitä todella! 🤍",
+    "onboardingConfiguringReviewYes": "Kyllä, haluan tukea teitä!",
+    "onboardingConfiguringReviewNo": "Ei oikeastaan"
 }

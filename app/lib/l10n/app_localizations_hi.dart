@@ -12398,4 +12398,43 @@ class AppLocalizationsHi extends AppLocalizations {
 
   @override
   String get showOnLockScreen => 'लॉक स्क्रीन पर दिखाएँ';
+
+  @override
+  String get onboardingConfiguringTitle => 'आपका Omi सेट हो रहा है';
+
+  @override
+  String get onboardingConfiguringSubtitle => 'Omi को आपके लिए तैयार होने का एक पल दें';
+
+  @override
+  String get onboardingConfiguringStepVoice => 'आपकी आवाज़ सीख रहा है';
+
+  @override
+  String get onboardingConfiguringStepLanguage => 'आपकी भाषा के अनुसार ढल रहा है';
+
+  @override
+  String get onboardingConfiguringStepMemories => 'आपकी साझा की गई बातें सहेज रहा है';
+
+  @override
+  String get onboardingConfiguringStepGraph => 'आपके लिए ज़रूरी बातें समझ रहा है';
+
+  @override
+  String get onboardingConfiguringStepSummaries => 'आपकी बातचीत के सारांश तैयार कर रहा है';
+
+  @override
+  String get onboardingConfiguringStepReminders => 'स्मार्ट रिमाइंडर सेट कर रहा है';
+
+  @override
+  String get onboardingConfiguringStepPersonalize => 'आपका Omi पर्सनलाइज़ कर रहा है';
+
+  @override
+  String get onboardingConfiguringReviewTitle => 'इंतज़ार के बीच, क्या अब तक Omi इस्तेमाल करना अच्छा लगा?';
+
+  @override
+  String get onboardingConfiguringReviewBody => '5 स्टार रेटिंग से हमें सच में बहुत मदद मिलती है! 🤍';
+
+  @override
+  String get onboardingConfiguringReviewYes => 'हाँ, मैं आपका साथ देना चाहता हूँ!';
+
+  @override
+  String get onboardingConfiguringReviewNo => 'ज़्यादा नहीं';
 }

@@ -12229,4 +12229,43 @@ class AppLocalizationsKo extends AppLocalizations {
 
   @override
   String get showOnLockScreen => '잠금 화면에 표시';
+
+  @override
+  String get onboardingConfiguringTitle => 'Omi 설정 중';
+
+  @override
+  String get onboardingConfiguringSubtitle => 'Omi가 맞춤 설정할 시간을 잠시 주세요';
+
+  @override
+  String get onboardingConfiguringStepVoice => '목소리를 학습하는 중';
+
+  @override
+  String get onboardingConfiguringStepLanguage => '사용 언어에 맞추는 중';
+
+  @override
+  String get onboardingConfiguringStepMemories => '공유한 내용을 저장하는 중';
+
+  @override
+  String get onboardingConfiguringStepGraph => '중요한 것을 정리하는 중';
+
+  @override
+  String get onboardingConfiguringStepSummaries => '대화 요약을 준비하는 중';
+
+  @override
+  String get onboardingConfiguringStepReminders => '스마트 리마인더를 설정하는 중';
+
+  @override
+  String get onboardingConfiguringStepPersonalize => 'Omi를 맞춤 설정하는 중';
+
+  @override
+  String get onboardingConfiguringReviewTitle => '기다리는 동안, 지금까지 Omi 사용은 만족스러우셨나요?';
+
+  @override
+  String get onboardingConfiguringReviewBody => '별점 5점은 저희에게 큰 힘이 됩니다! 🤍';
+
+  @override
+  String get onboardingConfiguringReviewYes => '네, 응원하고 싶어요!';
+
+  @override
+  String get onboardingConfiguringReviewNo => '별로요';
 }

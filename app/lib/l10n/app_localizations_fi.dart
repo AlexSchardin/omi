@@ -12419,4 +12419,43 @@ class AppLocalizationsFi extends AppLocalizations {
 
   @override
   String get showOnLockScreen => 'Näytä lukitusnäytöllä';
+
+  @override
+  String get onboardingConfiguringTitle => 'Omiasi määritetään';
+
+  @override
+  String get onboardingConfiguringSubtitle => 'Anna Omille hetki mukautua';
+
+  @override
+  String get onboardingConfiguringStepVoice => 'Opitaan äänesi';
+
+  @override
+  String get onboardingConfiguringStepLanguage => 'Viritytään kieleesi';
+
+  @override
+  String get onboardingConfiguringStepMemories => 'Tallennetaan jakamasi asiat';
+
+  @override
+  String get onboardingConfiguringStepGraph => 'Kartoitetaan sinulle tärkeät asiat';
+
+  @override
+  String get onboardingConfiguringStepSummaries => 'Valmistellaan keskustelujesi yhteenvetoja';
+
+  @override
+  String get onboardingConfiguringStepReminders => 'Määritetään älykkäitä muistutuksia';
+
+  @override
+  String get onboardingConfiguringStepPersonalize => 'Mukautetaan Omiasi';
+
+  @override
+  String get onboardingConfiguringReviewTitle => 'Odotellessa: onko Omi ollut mukava käyttää?';
+
+  @override
+  String get onboardingConfiguringReviewBody => '5 tähden arvio auttaa meitä todella! 🤍';
+
+  @override
+  String get onboardingConfiguringReviewYes => 'Kyllä, haluan tukea teitä!';
+
+  @override
+  String get onboardingConfiguringReviewNo => 'Ei oikeastaan';
 }

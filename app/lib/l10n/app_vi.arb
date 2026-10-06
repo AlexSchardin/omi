@@ -3839,5 +3839,18 @@
     "dismiss": "Ẩn",
     "syncCardDownloadPercent": "{percent}%",
     "syncCardDownloadPercentSpeed": "{percent}% · {speed} KB/s",
-    "showOnLockScreen": "Hiển thị trên màn hình khóa"
+    "showOnLockScreen": "Hiển thị trên màn hình khóa",
+    "onboardingConfiguringTitle": "Đang thiết lập Omi của bạn",
+    "onboardingConfiguringSubtitle": "Hãy cho Omi chút thời gian để cá nhân hóa",
+    "onboardingConfiguringStepVoice": "Đang học giọng nói của bạn",
+    "onboardingConfiguringStepLanguage": "Đang điều chỉnh theo ngôn ngữ của bạn",
+    "onboardingConfiguringStepMemories": "Đang lưu những gì bạn chia sẻ",
+    "onboardingConfiguringStepGraph": "Đang ghi nhận điều quan trọng với bạn",
+    "onboardingConfiguringStepSummaries": "Đang chuẩn bị tóm tắt cuộc trò chuyện",
+    "onboardingConfiguringStepReminders": "Đang thiết lập nhắc nhở thông minh",
+    "onboardingConfiguringStepPersonalize": "Đang cá nhân hóa Omi của bạn",
+    "onboardingConfiguringReviewTitle": "Trong lúc chờ, bạn thấy Omi dùng có thích không?",
+    "onboardingConfiguringReviewBody": "Đánh giá 5 sao giúp chúng tôi rất nhiều! 🤍",
+    "onboardingConfiguringReviewYes": "Có, mình muốn ủng hộ!",
+    "onboardingConfiguringReviewNo": "Không hẳn"
 }

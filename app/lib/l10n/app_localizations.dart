@@ -22226,6 +22226,84 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Show on Lock Screen'**
   String get showOnLockScreen;
+
+  /// Onboarding 'Setting up your Omi' screen
+  ///
+  /// In en, this message translates to:
+  /// **'Setting up your Omi'**
+  String get onboardingConfiguringTitle;
+
+  /// Onboarding 'Setting up your Omi' screen
+  ///
+  /// In en, this message translates to:
+  /// **'Give Omi a moment to personalize'**
+  String get onboardingConfiguringSubtitle;
+
+  /// Onboarding 'Setting up your Omi' screen
+  ///
+  /// In en, this message translates to:
+  /// **'Learning your voice'**
+  String get onboardingConfiguringStepVoice;
+
+  /// Onboarding 'Setting up your Omi' screen
+  ///
+  /// In en, this message translates to:
+  /// **'Tuning to your language'**
+  String get onboardingConfiguringStepLanguage;
+
+  /// Onboarding 'Setting up your Omi' screen
+  ///
+  /// In en, this message translates to:
+  /// **'Saving what you shared'**
+  String get onboardingConfiguringStepMemories;
+
+  /// Onboarding 'Setting up your Omi' screen
+  ///
+  /// In en, this message translates to:
+  /// **'Mapping what matters to you'**
+  String get onboardingConfiguringStepGraph;
+
+  /// Onboarding 'Setting up your Omi' screen
+  ///
+  /// In en, this message translates to:
+  /// **'Preparing your conversation summaries'**
+  String get onboardingConfiguringStepSummaries;
+
+  /// Onboarding 'Setting up your Omi' screen
+  ///
+  /// In en, this message translates to:
+  /// **'Setting up smart reminders'**
+  String get onboardingConfiguringStepReminders;
+
+  /// Onboarding 'Setting up your Omi' screen
+  ///
+  /// In en, this message translates to:
+  /// **'Personalizing your Omi'**
+  String get onboardingConfiguringStepPersonalize;
+
+  /// Onboarding 'Setting up your Omi' screen
+  ///
+  /// In en, this message translates to:
+  /// **'While you wait, has Omi been nice to use so far?'**
+  String get onboardingConfiguringReviewTitle;
+
+  /// Onboarding 'Setting up your Omi' screen
+  ///
+  /// In en, this message translates to:
+  /// **'Rating us 5 stars really helps us out! 🤍'**
+  String get onboardingConfiguringReviewBody;
+
+  /// Onboarding 'Setting up your Omi' screen
+  ///
+  /// In en, this message translates to:
+  /// **'Yes, I want to support you!'**
+  String get onboardingConfiguringReviewYes;
+
+  /// Onboarding 'Setting up your Omi' screen
+  ///
+  /// In en, this message translates to:
+  /// **'Not really'**
+  String get onboardingConfiguringReviewNo;
 }
 
 class _AppLocalizationsDelegate extends LocalizationsDelegate<AppLocalizations> {

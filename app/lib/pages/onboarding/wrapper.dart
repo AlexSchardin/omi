@@ -18,6 +18,7 @@ import 'package:omi/pages/onboarding/permissions/permissions_checker.dart';
 import 'package:omi/pages/onboarding/permissions/permissions_widget.dart';
 import 'package:omi/pages/onboarding/primary_language/primary_language_widget.dart';
 import 'package:omi/pages/onboarding/complete_screen.dart';
+import 'package:omi/pages/onboarding/configuring_screen.dart';
 import 'package:omi/pages/onboarding/speech_profile_widget.dart';
 import 'package:omi/pages/onboarding/widgets/onboarding_step_layout.dart';
 import 'package:omi/providers/home_provider.dart';
@@ -218,6 +219,26 @@ class _OnboardingWrapperState extends State<OnboardingWrapper> with TickerProvid
     navigator.pushAndRemoveUntil(omiPageRoute(builder: (_) => const AppShell()), (_) => false);
   }
 
+  /// Covers the knowledge-graph prebuild with the "Setting up your Omi" screen, then lands on the
+  /// graph preview so the wait pays off with a visible result.
+  void _showConfiguringThenGraph() {
+    final navigator = Navigator.of(context);
+    navigator.push(
+      PageRouteBuilder<void>(
+        transitionDuration: OmiMotion.standardDuration,
+        pageBuilder: (_, __, ___) => OnboardingConfiguringScreen(
+          work: _knowledgeGraphPrebuildFuture,
+          onDone: () {
+            PlatformManager.instance.analytics.onboardingStepCompleted('Configuring');
+            _controller!.index = kKnowledgeGraphPage;
+            navigator.pop();
+          },
+        ),
+        transitionsBuilder: (_, animation, __, child) => FadeTransition(opacity: animation, child: child),
+      ),
+    );
+  }
+
   Future<void> _prebuildKnowledgeGraph() async {
     try {
       final current = await KnowledgeGraphApi.getKnowledgeGraph();
@@ -389,11 +410,11 @@ class _OnboardingWrapperState extends State<OnboardingWrapper> with TickerProvid
                 // All Done is not enroll success (#12765). Upload/embedding
                 // events fire only from the guided I/O upload receipt.
                 PlatformManager.instance.analytics.speechProfileContinued();
-                _controller!.animateTo(kKnowledgeGraphPage);
+                _showConfiguringThenGraph();
               },
               onSkip: () {
                 PlatformManager.instance.analytics.speechProfileSkipped();
-                _controller!.animateTo(kKnowledgeGraphPage);
+                _showConfiguringThenGraph();
               },
             ),
       OnboardingKnowledgeGraphStep(

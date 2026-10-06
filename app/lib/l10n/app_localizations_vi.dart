@@ -12410,4 +12410,43 @@ class AppLocalizationsVi extends AppLocalizations {
 
   @override
   String get showOnLockScreen => 'Hiển thị trên màn hình khóa';
+
+  @override
+  String get onboardingConfiguringTitle => 'Đang thiết lập Omi của bạn';
+
+  @override
+  String get onboardingConfiguringSubtitle => 'Hãy cho Omi chút thời gian để cá nhân hóa';
+
+  @override
+  String get onboardingConfiguringStepVoice => 'Đang học giọng nói của bạn';
+
+  @override
+  String get onboardingConfiguringStepLanguage => 'Đang điều chỉnh theo ngôn ngữ của bạn';
+
+  @override
+  String get onboardingConfiguringStepMemories => 'Đang lưu những gì bạn chia sẻ';
+
+  @override
+  String get onboardingConfiguringStepGraph => 'Đang ghi nhận điều quan trọng với bạn';
+
+  @override
+  String get onboardingConfiguringStepSummaries => 'Đang chuẩn bị tóm tắt cuộc trò chuyện';
+
+  @override
+  String get onboardingConfiguringStepReminders => 'Đang thiết lập nhắc nhở thông minh';
+
+  @override
+  String get onboardingConfiguringStepPersonalize => 'Đang cá nhân hóa Omi của bạn';
+
+  @override
+  String get onboardingConfiguringReviewTitle => 'Trong lúc chờ, bạn thấy Omi dùng có thích không?';
+
+  @override
+  String get onboardingConfiguringReviewBody => 'Đánh giá 5 sao giúp chúng tôi rất nhiều! 🤍';
+
+  @override
+  String get onboardingConfiguringReviewYes => 'Có, mình muốn ủng hộ!';
+
+  @override
+  String get onboardingConfiguringReviewNo => 'Không hẳn';
 }

@@ -12225,4 +12225,43 @@ class AppLocalizationsJa extends AppLocalizations {
 
   @override
   String get showOnLockScreen => 'ロック画面に表示';
+
+  @override
+  String get onboardingConfiguringTitle => 'Omiをセットアップ中';
+
+  @override
+  String get onboardingConfiguringSubtitle => 'Omiがあなた向けに準備しています';
+
+  @override
+  String get onboardingConfiguringStepVoice => 'あなたの声を学習中';
+
+  @override
+  String get onboardingConfiguringStepLanguage => 'あなたの言語に合わせています';
+
+  @override
+  String get onboardingConfiguringStepMemories => '共有された内容を保存中';
+
+  @override
+  String get onboardingConfiguringStepGraph => '大切なことを整理中';
+
+  @override
+  String get onboardingConfiguringStepSummaries => '会話の要約を準備中';
+
+  @override
+  String get onboardingConfiguringStepReminders => 'スマートリマインダーを設定中';
+
+  @override
+  String get onboardingConfiguringStepPersonalize => 'Omiをパーソナライズ中';
+
+  @override
+  String get onboardingConfiguringReviewTitle => 'お待ちの間に、ここまでOmiは使いやすいですか？';
+
+  @override
+  String get onboardingConfiguringReviewBody => '星5つの評価がとても励みになります！🤍';
+
+  @override
+  String get onboardingConfiguringReviewYes => 'はい、応援したいです！';
+
+  @override
+  String get onboardingConfiguringReviewNo => 'あまり';
 }

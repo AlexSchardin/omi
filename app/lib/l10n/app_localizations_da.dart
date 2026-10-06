@@ -12403,4 +12403,43 @@ class AppLocalizationsDa extends AppLocalizations {
 
   @override
   String get showOnLockScreen => 'Vis på låseskærmen';
+
+  @override
+  String get onboardingConfiguringTitle => 'Konfigurerer din Omi';
+
+  @override
+  String get onboardingConfiguringSubtitle => 'Giv Omi et øjeblik til at tilpasse sig';
+
+  @override
+  String get onboardingConfiguringStepVoice => 'Lærer din stemme';
+
+  @override
+  String get onboardingConfiguringStepLanguage => 'Tilpasser sig dit sprog';
+
+  @override
+  String get onboardingConfiguringStepMemories => 'Gemmer det, du har delt';
+
+  @override
+  String get onboardingConfiguringStepGraph => 'Kortlægger det, der betyder noget for dig';
+
+  @override
+  String get onboardingConfiguringStepSummaries => 'Forbereder dine samtaleresuméer';
+
+  @override
+  String get onboardingConfiguringStepReminders => 'Opsætter smarte påmindelser';
+
+  @override
+  String get onboardingConfiguringStepPersonalize => 'Tilpasser din Omi';
+
+  @override
+  String get onboardingConfiguringReviewTitle => 'Mens du venter: har Omi været rar at bruge indtil videre?';
+
+  @override
+  String get onboardingConfiguringReviewBody => 'En bedømmelse med 5 stjerner hjælper os virkelig! 🤍';
+
+  @override
+  String get onboardingConfiguringReviewYes => 'Ja, jeg vil gerne støtte jer!';
+
+  @override
+  String get onboardingConfiguringReviewNo => 'Ikke rigtigt';
 }

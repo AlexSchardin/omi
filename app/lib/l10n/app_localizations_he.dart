@@ -12324,4 +12324,43 @@ class AppLocalizationsHe extends AppLocalizations {
 
   @override
   String get showOnLockScreen => 'הצגה במסך הנעילה';
+
+  @override
+  String get onboardingConfiguringTitle => 'מגדירים את ה-Omi שלך';
+
+  @override
+  String get onboardingConfiguringSubtitle => 'תנו ל-Omi רגע להתאים את עצמו';
+
+  @override
+  String get onboardingConfiguringStepVoice => 'לומד את הקול שלך';
+
+  @override
+  String get onboardingConfiguringStepLanguage => 'מתכוונן לשפה שלך';
+
+  @override
+  String get onboardingConfiguringStepMemories => 'שומר את מה ששיתפת';
+
+  @override
+  String get onboardingConfiguringStepGraph => 'ממפה את מה שחשוב לך';
+
+  @override
+  String get onboardingConfiguringStepSummaries => 'מכין סיכומי שיחות';
+
+  @override
+  String get onboardingConfiguringStepReminders => 'מגדיר תזכורות חכמות';
+
+  @override
+  String get onboardingConfiguringStepPersonalize => 'מתאים אישית את ה-Omi שלך';
+
+  @override
+  String get onboardingConfiguringReviewTitle => 'בזמן ההמתנה: נהנית להשתמש ב-Omi עד עכשיו?';
+
+  @override
+  String get onboardingConfiguringReviewBody => 'דירוג של 5 כוכבים ממש עוזר לנו! 🤍';
+
+  @override
+  String get onboardingConfiguringReviewYes => 'כן, אני רוצה לתמוך בכם!';
+
+  @override
+  String get onboardingConfiguringReviewNo => 'לא ממש';
 }

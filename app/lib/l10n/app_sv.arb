@@ -3839,5 +3839,18 @@
     "dismiss": "Avvisa",
     "syncCardDownloadPercent": "{percent}%",
     "syncCardDownloadPercentSpeed": "{percent}% · {speed} KB/s",
-    "showOnLockScreen": "Visa på låsskärmen"
+    "showOnLockScreen": "Visa på låsskärmen",
+    "onboardingConfiguringTitle": "Konfigurerar din Omi",
+    "onboardingConfiguringSubtitle": "Ge Omi en stund att anpassa sig",
+    "onboardingConfiguringStepVoice": "Lär sig din röst",
+    "onboardingConfiguringStepLanguage": "Anpassar sig till ditt språk",
+    "onboardingConfiguringStepMemories": "Sparar det du har delat",
+    "onboardingConfiguringStepGraph": "Kartlägger det som betyder något för dig",
+    "onboardingConfiguringStepSummaries": "Förbereder dina samtalssammanfattningar",
+    "onboardingConfiguringStepReminders": "Ställer in smarta påminnelser",
+    "onboardingConfiguringStepPersonalize": "Anpassar din Omi",
+    "onboardingConfiguringReviewTitle": "Medan du väntar: har Omi varit trevlig att använda hittills?",
+    "onboardingConfiguringReviewBody": "Ett betyg på 5 stjärnor hjälper oss verkligen! 🤍",
+    "onboardingConfiguringReviewYes": "Ja, jag vill stötta er!",
+    "onboardingConfiguringReviewNo": "Inte riktigt"
 }

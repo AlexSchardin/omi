@@ -11396,5 +11396,18 @@
     "dismiss": "סגירה",
     "syncCardDownloadPercent": "{percent}%",
     "syncCardDownloadPercentSpeed": "{percent}% · {speed} KB/s",
-    "showOnLockScreen": "הצגה במסך הנעילה"
+    "showOnLockScreen": "הצגה במסך הנעילה",
+    "onboardingConfiguringTitle": "מגדירים את ה-Omi שלך",
+    "onboardingConfiguringSubtitle": "תנו ל-Omi רגע להתאים את עצמו",
+    "onboardingConfiguringStepVoice": "לומד את הקול שלך",
+    "onboardingConfiguringStepLanguage": "מתכוונן לשפה שלך",
+    "onboardingConfiguringStepMemories": "שומר את מה ששיתפת",
+    "onboardingConfiguringStepGraph": "ממפה את מה שחשוב לך",
+    "onboardingConfiguringStepSummaries": "מכין סיכומי שיחות",
+    "onboardingConfiguringStepReminders": "מגדיר תזכורות חכמות",
+    "onboardingConfiguringStepPersonalize": "מתאים אישית את ה-Omi שלך",
+    "onboardingConfiguringReviewTitle": "בזמן ההמתנה: נהנית להשתמש ב-Omi עד עכשיו?",
+    "onboardingConfiguringReviewBody": "דירוג של 5 כוכבים ממש עוזר לנו! 🤍",
+    "onboardingConfiguringReviewYes": "כן, אני רוצה לתמוך בכם!",
+    "onboardingConfiguringReviewNo": "לא ממש"
 }

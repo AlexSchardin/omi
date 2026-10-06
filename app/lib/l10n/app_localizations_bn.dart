@@ -12415,4 +12415,43 @@ class AppLocalizationsBn extends AppLocalizations {
 
   @override
   String get showOnLockScreen => 'লক স্ক্রিনে দেখান';
+
+  @override
+  String get onboardingConfiguringTitle => 'আপনার Omi সেট আপ হচ্ছে';
+
+  @override
+  String get onboardingConfiguringSubtitle => 'Omi-কে ব্যক্তিগত করতে একটু সময় দিন';
+
+  @override
+  String get onboardingConfiguringStepVoice => 'আপনার কণ্ঠ শেখা হচ্ছে';
+
+  @override
+  String get onboardingConfiguringStepLanguage => 'আপনার ভাষার সাথে মানিয়ে নেওয়া হচ্ছে';
+
+  @override
+  String get onboardingConfiguringStepMemories => 'আপনি যা শেয়ার করেছেন তা সংরক্ষণ হচ্ছে';
+
+  @override
+  String get onboardingConfiguringStepGraph => 'আপনার কাছে যা গুরুত্বপূর্ণ তা সাজানো হচ্ছে';
+
+  @override
+  String get onboardingConfiguringStepSummaries => 'আপনার কথোপকথনের সারাংশ প্রস্তুত হচ্ছে';
+
+  @override
+  String get onboardingConfiguringStepReminders => 'স্মার্ট রিমাইন্ডার সেট আপ হচ্ছে';
+
+  @override
+  String get onboardingConfiguringStepPersonalize => 'আপনার Omi ব্যক্তিগত করা হচ্ছে';
+
+  @override
+  String get onboardingConfiguringReviewTitle => 'অপেক্ষার ফাঁকে বলুন, এখন পর্যন্ত Omi ব্যবহার করে ভালো লাগছে?';
+
+  @override
+  String get onboardingConfiguringReviewBody => '৫ স্টার রেটিং আমাদের অনেক সাহায্য করে! 🤍';
+
+  @override
+  String get onboardingConfiguringReviewYes => 'হ্যাঁ, আমি আপনাদের সমর্থন করতে চাই!';
+
+  @override
+  String get onboardingConfiguringReviewNo => 'তেমন না';
 }

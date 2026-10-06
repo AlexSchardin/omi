@@ -3839,5 +3839,18 @@
     "dismiss": "Tutup",
     "syncCardDownloadPercent": "{percent}%",
     "syncCardDownloadPercentSpeed": "{percent}% · {speed} KB/s",
-    "showOnLockScreen": "Tunjukkan pada skrin kunci"
+    "showOnLockScreen": "Tunjukkan pada skrin kunci",
+    "onboardingConfiguringTitle": "Menyediakan Omi anda",
+    "onboardingConfiguringSubtitle": "Beri Omi seketika untuk diperibadikan",
+    "onboardingConfiguringStepVoice": "Mempelajari suara anda",
+    "onboardingConfiguringStepLanguage": "Menyesuaikan dengan bahasa anda",
+    "onboardingConfiguringStepMemories": "Menyimpan apa yang anda kongsi",
+    "onboardingConfiguringStepGraph": "Memetakan perkara penting bagi anda",
+    "onboardingConfiguringStepSummaries": "Menyediakan ringkasan perbualan anda",
+    "onboardingConfiguringStepReminders": "Menyediakan peringatan pintar",
+    "onboardingConfiguringStepPersonalize": "Memperibadikan Omi anda",
+    "onboardingConfiguringReviewTitle": "Sementara menunggu, adakah Omi menyenangkan setakat ini?",
+    "onboardingConfiguringReviewBody": "Penarafan 5 bintang sangat membantu kami! 🤍",
+    "onboardingConfiguringReviewYes": "Ya, saya mahu menyokong anda!",
+    "onboardingConfiguringReviewNo": "Tidak sangat"
 }

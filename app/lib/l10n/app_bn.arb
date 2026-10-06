@@ -11396,5 +11396,18 @@
     "dismiss": "সরিয়ে দিন",
     "syncCardDownloadPercent": "{percent}%",
     "syncCardDownloadPercentSpeed": "{percent}% · {speed} KB/s",
-    "showOnLockScreen": "লক স্ক্রিনে দেখান"
+    "showOnLockScreen": "লক স্ক্রিনে দেখান",
+    "onboardingConfiguringTitle": "আপনার Omi সেট আপ হচ্ছে",
+    "onboardingConfiguringSubtitle": "Omi-কে ব্যক্তিগত করতে একটু সময় দিন",
+    "onboardingConfiguringStepVoice": "আপনার কণ্ঠ শেখা হচ্ছে",
+    "onboardingConfiguringStepLanguage": "আপনার ভাষার সাথে মানিয়ে নেওয়া হচ্ছে",
+    "onboardingConfiguringStepMemories": "আপনি যা শেয়ার করেছেন তা সংরক্ষণ হচ্ছে",
+    "onboardingConfiguringStepGraph": "আপনার কাছে যা গুরুত্বপূর্ণ তা সাজানো হচ্ছে",
+    "onboardingConfiguringStepSummaries": "আপনার কথোপকথনের সারাংশ প্রস্তুত হচ্ছে",
+    "onboardingConfiguringStepReminders": "স্মার্ট রিমাইন্ডার সেট আপ হচ্ছে",
+    "onboardingConfiguringStepPersonalize": "আপনার Omi ব্যক্তিগত করা হচ্ছে",
+    "onboardingConfiguringReviewTitle": "অপেক্ষার ফাঁকে বলুন, এখন পর্যন্ত Omi ব্যবহার করে ভালো লাগছে?",
+    "onboardingConfiguringReviewBody": "৫ স্টার রেটিং আমাদের অনেক সাহায্য করে! 🤍",
+    "onboardingConfiguringReviewYes": "হ্যাঁ, আমি আপনাদের সমর্থন করতে চাই!",
+    "onboardingConfiguringReviewNo": "তেমন না"
 }

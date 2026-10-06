@@ -3839,5 +3839,18 @@
     "dismiss": "Ignora",
     "syncCardDownloadPercent": "{percent}%",
     "syncCardDownloadPercentSpeed": "{percent}% · {speed} KB/s",
-    "showOnLockScreen": "Mostra sulla schermata di blocco"
+    "showOnLockScreen": "Mostra sulla schermata di blocco",
+    "onboardingConfiguringTitle": "Configurazione del tuo Omi",
+    "onboardingConfiguringSubtitle": "Concedi a Omi un momento per personalizzarsi",
+    "onboardingConfiguringStepVoice": "Sto imparando la tua voce",
+    "onboardingConfiguringStepLanguage": "Mi sto adattando alla tua lingua",
+    "onboardingConfiguringStepMemories": "Salvo ciò che hai condiviso",
+    "onboardingConfiguringStepGraph": "Mappo ciò che conta per te",
+    "onboardingConfiguringStepSummaries": "Preparo i riassunti delle tue conversazioni",
+    "onboardingConfiguringStepReminders": "Imposto promemoria intelligenti",
+    "onboardingConfiguringStepPersonalize": "Personalizzo il tuo Omi",
+    "onboardingConfiguringReviewTitle": "Mentre aspetti, ti sta piacendo usare Omi?",
+    "onboardingConfiguringReviewBody": "Una valutazione a 5 stelle ci aiuta davvero! 🤍",
+    "onboardingConfiguringReviewYes": "Sì, voglio sostenervi!",
+    "onboardingConfiguringReviewNo": "Non proprio"
 }

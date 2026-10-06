@@ -12427,4 +12427,43 @@ class AppLocalizationsId extends AppLocalizations {
 
   @override
   String get showOnLockScreen => 'Tampilkan di layar kunci';
+
+  @override
+  String get onboardingConfiguringTitle => 'Menyiapkan Omi Anda';
+
+  @override
+  String get onboardingConfiguringSubtitle => 'Beri Omi waktu sejenak untuk menyesuaikan diri';
+
+  @override
+  String get onboardingConfiguringStepVoice => 'Mempelajari suara Anda';
+
+  @override
+  String get onboardingConfiguringStepLanguage => 'Menyesuaikan dengan bahasa Anda';
+
+  @override
+  String get onboardingConfiguringStepMemories => 'Menyimpan yang Anda bagikan';
+
+  @override
+  String get onboardingConfiguringStepGraph => 'Memetakan hal yang penting bagi Anda';
+
+  @override
+  String get onboardingConfiguringStepSummaries => 'Menyiapkan ringkasan percakapan Anda';
+
+  @override
+  String get onboardingConfiguringStepReminders => 'Menyiapkan pengingat pintar';
+
+  @override
+  String get onboardingConfiguringStepPersonalize => 'Mempersonalisasi Omi Anda';
+
+  @override
+  String get onboardingConfiguringReviewTitle => 'Sambil menunggu, apakah Omi menyenangkan dipakai sejauh ini?';
+
+  @override
+  String get onboardingConfiguringReviewBody => 'Rating 5 bintang sangat membantu kami! 🤍';
+
+  @override
+  String get onboardingConfiguringReviewYes => 'Ya, saya ingin mendukung kalian!';
+
+  @override
+  String get onboardingConfiguringReviewNo => 'Tidak juga';
 }

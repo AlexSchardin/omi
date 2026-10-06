@@ -3839,5 +3839,18 @@
     "dismiss": "Peida",
     "syncCardDownloadPercent": "{percent}%",
     "syncCardDownloadPercentSpeed": "{percent}% · {speed} KB/s",
-    "showOnLockScreen": "Kuva lukustuskuval"
+    "showOnLockScreen": "Kuva lukustuskuval",
+    "onboardingConfiguringTitle": "Seadistame sinu Omit",
+    "onboardingConfiguringSubtitle": "Anna Omile hetk isikupärastamiseks",
+    "onboardingConfiguringStepVoice": "Õpib sinu häält",
+    "onboardingConfiguringStepLanguage": "Häälestub sinu keelele",
+    "onboardingConfiguringStepMemories": "Salvestab, mida jagasid",
+    "onboardingConfiguringStepGraph": "Kaardistab, mis sulle oluline on",
+    "onboardingConfiguringStepSummaries": "Valmistab ette vestluste kokkuvõtteid",
+    "onboardingConfiguringStepReminders": "Seadistab nutikaid meeldetuletusi",
+    "onboardingConfiguringStepPersonalize": "Isikupärastab sinu Omit",
+    "onboardingConfiguringReviewTitle": "Ootamise ajal: kas Omi on seni meeldinud?",
+    "onboardingConfiguringReviewBody": "5-tärni hinnang aitab meid väga! 🤍",
+    "onboardingConfiguringReviewYes": "Jah, tahan teid toetada!",
+    "onboardingConfiguringReviewNo": "Mitte eriti"
 }

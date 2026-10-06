@@ -12452,4 +12452,43 @@ class AppLocalizationsKn extends AppLocalizations {
 
   @override
   String get showOnLockScreen => 'ಲಾಕ್ ಸ್ಕ್ರೀನ್‌ನಲ್ಲಿ ತೋರಿಸಿ';
+
+  @override
+  String get onboardingConfiguringTitle => 'ನಿಮ್ಮ Omi ಸಿದ್ಧಗೊಳ್ಳುತ್ತಿದೆ';
+
+  @override
+  String get onboardingConfiguringSubtitle => 'ವೈಯಕ್ತೀಕರಿಸಲು Omi ಗೆ ಸ್ವಲ್ಪ ಸಮಯ ನೀಡಿ';
+
+  @override
+  String get onboardingConfiguringStepVoice => 'ನಿಮ್ಮ ಧ್ವನಿಯನ್ನು ಕಲಿಯುತ್ತಿದೆ';
+
+  @override
+  String get onboardingConfiguringStepLanguage => 'ನಿಮ್ಮ ಭಾಷೆಗೆ ಹೊಂದಿಕೊಳ್ಳುತ್ತಿದೆ';
+
+  @override
+  String get onboardingConfiguringStepMemories => 'ನೀವು ಹಂಚಿಕೊಂಡದ್ದನ್ನು ಉಳಿಸುತ್ತಿದೆ';
+
+  @override
+  String get onboardingConfiguringStepGraph => 'ನಿಮಗೆ ಮುಖ್ಯವಾದುದನ್ನು ಗುರುತಿಸುತ್ತಿದೆ';
+
+  @override
+  String get onboardingConfiguringStepSummaries => 'ನಿಮ್ಮ ಸಂಭಾಷಣೆಯ ಸಾರಾಂಶಗಳನ್ನು ಸಿದ್ಧಪಡಿಸುತ್ತಿದೆ';
+
+  @override
+  String get onboardingConfiguringStepReminders => 'ಸ್ಮಾರ್ಟ್ ಜ್ಞಾಪನೆಗಳನ್ನು ಹೊಂದಿಸುತ್ತಿದೆ';
+
+  @override
+  String get onboardingConfiguringStepPersonalize => 'ನಿಮ್ಮ Omi ವೈಯಕ್ತೀಕರಿಸುತ್ತಿದೆ';
+
+  @override
+  String get onboardingConfiguringReviewTitle => 'ಕಾಯುತ್ತಿರುವಾಗ, ಇದುವರೆಗೆ Omi ಬಳಸಲು ಚೆನ್ನಾಗಿದೆಯೇ?';
+
+  @override
+  String get onboardingConfiguringReviewBody => '5 ಸ್ಟಾರ್ ರೇಟಿಂಗ್ ನಮಗೆ ತುಂಬಾ ಸಹಾಯ ಮಾಡುತ್ತದೆ! 🤍';
+
+  @override
+  String get onboardingConfiguringReviewYes => 'ಹೌದು, ನಾನು ನಿಮ್ಮನ್ನು ಬೆಂಬಲಿಸಲು ಬಯಸುತ್ತೇನೆ!';
+
+  @override
+  String get onboardingConfiguringReviewNo => 'ಅಷ್ಟಾಗಿ ಇಲ್ಲ';
 }

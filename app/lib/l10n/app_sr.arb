@@ -11396,5 +11396,18 @@
     "dismiss": "Сакриј",
     "syncCardDownloadPercent": "{percent}%",
     "syncCardDownloadPercentSpeed": "{percent}% · {speed} KB/s",
-    "showOnLockScreen": "Прикажи на закључаном екрану"
+    "showOnLockScreen": "Прикажи на закључаном екрану",
+    "onboardingConfiguringTitle": "Подешавамо ваш Omi",
+    "onboardingConfiguringSubtitle": "Дајте Omi тренутак за персонализацију",
+    "onboardingConfiguringStepVoice": "Учимо ваш глас",
+    "onboardingConfiguringStepLanguage": "Прилагођавамо се вашем језику",
+    "onboardingConfiguringStepMemories": "Чувамо оно што сте поделили",
+    "onboardingConfiguringStepGraph": "Мапирамо оно што вам је важно",
+    "onboardingConfiguringStepSummaries": "Припремамо резимее ваших разговора",
+    "onboardingConfiguringStepReminders": "Подешавамо паметне подсетнике",
+    "onboardingConfiguringStepPersonalize": "Персонализујемо ваш Omi",
+    "onboardingConfiguringReviewTitle": "Док чекате: да ли вам је Omi до сада пријатан?",
+    "onboardingConfiguringReviewBody": "Оцена од 5 звездица нам заиста помаже! 🤍",
+    "onboardingConfiguringReviewYes": "Да, желим да вас подржим!",
+    "onboardingConfiguringReviewNo": "Баш и не"
 }

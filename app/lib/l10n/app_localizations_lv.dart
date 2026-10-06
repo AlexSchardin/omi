@@ -12443,4 +12443,43 @@ class AppLocalizationsLv extends AppLocalizations {
 
   @override
   String get showOnLockScreen => 'Rādīt bloķēšanas ekrānā';
+
+  @override
+  String get onboardingConfiguringTitle => 'Iestatām jūsu Omi';
+
+  @override
+  String get onboardingConfiguringSubtitle => 'Dodiet Omi brīdi personalizēšanai';
+
+  @override
+  String get onboardingConfiguringStepVoice => 'Mācās jūsu balsi';
+
+  @override
+  String get onboardingConfiguringStepLanguage => 'Pielāgojas jūsu valodai';
+
+  @override
+  String get onboardingConfiguringStepMemories => 'Saglabā to, ko pastāstījāt';
+
+  @override
+  String get onboardingConfiguringStepGraph => 'Iezīmē to, kas jums svarīgs';
+
+  @override
+  String get onboardingConfiguringStepSummaries => 'Sagatavo sarunu kopsavilkumus';
+
+  @override
+  String get onboardingConfiguringStepReminders => 'Iestata viedos atgādinājumus';
+
+  @override
+  String get onboardingConfiguringStepPersonalize => 'Personalizē jūsu Omi';
+
+  @override
+  String get onboardingConfiguringReviewTitle => 'Kamēr gaidāt: vai Omi līdz šim patīk?';
+
+  @override
+  String get onboardingConfiguringReviewBody => '5 zvaigžņu vērtējums mums ļoti palīdz! 🤍';
+
+  @override
+  String get onboardingConfiguringReviewYes => 'Jā, gribu jūs atbalstīt!';
+
+  @override
+  String get onboardingConfiguringReviewNo => 'Ne īsti';
 }

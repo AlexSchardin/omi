@@ -3935,5 +3935,18 @@
     "dismiss": "Elrejtés",
     "syncCardDownloadPercent": "{percent}%",
     "syncCardDownloadPercentSpeed": "{percent}% · {speed} KB/s",
-    "showOnLockScreen": "Megjelenítés a zárolási képernyőn"
+    "showOnLockScreen": "Megjelenítés a zárolási képernyőn",
+    "onboardingConfiguringTitle": "Omi beállítása",
+    "onboardingConfiguringSubtitle": "Adj egy pillanatot az Ominak a személyre szabáshoz",
+    "onboardingConfiguringStepVoice": "Tanulja a hangodat",
+    "onboardingConfiguringStepLanguage": "Ráhangolódik a nyelvedre",
+    "onboardingConfiguringStepMemories": "Elmenti, amit megosztottál",
+    "onboardingConfiguringStepGraph": "Feltérképezi, ami fontos neked",
+    "onboardingConfiguringStepSummaries": "Előkészíti a beszélgetések összefoglalóit",
+    "onboardingConfiguringStepReminders": "Okos emlékeztetőket állít be",
+    "onboardingConfiguringStepPersonalize": "Személyre szabja az Omit",
+    "onboardingConfiguringReviewTitle": "Amíg vársz: eddig szívesen használtad az Omit?",
+    "onboardingConfiguringReviewBody": "Az 5 csillagos értékelés nagyon sokat segít! 🤍",
+    "onboardingConfiguringReviewYes": "Igen, támogatni szeretnélek titeket!",
+    "onboardingConfiguringReviewNo": "Nem igazán"
 }

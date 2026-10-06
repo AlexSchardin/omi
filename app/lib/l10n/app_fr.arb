@@ -3874,5 +3874,18 @@
     "dismiss": "Masquer",
     "syncCardDownloadPercent": "{percent}%",
     "syncCardDownloadPercentSpeed": "{percent}% · {speed} KB/s",
-    "showOnLockScreen": "Afficher sur l’écran verrouillé"
+    "showOnLockScreen": "Afficher sur l’écran verrouillé",
+    "onboardingConfiguringTitle": "Configuration de votre Omi",
+    "onboardingConfiguringSubtitle": "Laissez à Omi un instant pour se personnaliser",
+    "onboardingConfiguringStepVoice": "Apprentissage de votre voix",
+    "onboardingConfiguringStepLanguage": "Adaptation à votre langue",
+    "onboardingConfiguringStepMemories": "Enregistrement de ce que vous avez partagé",
+    "onboardingConfiguringStepGraph": "Cartographie de ce qui compte pour vous",
+    "onboardingConfiguringStepSummaries": "Préparation des résumés de vos conversations",
+    "onboardingConfiguringStepReminders": "Configuration des rappels intelligents",
+    "onboardingConfiguringStepPersonalize": "Personnalisation de votre Omi",
+    "onboardingConfiguringReviewTitle": "En attendant, Omi vous plaît-il jusqu'ici ?",
+    "onboardingConfiguringReviewBody": "Une note de 5 étoiles nous aide vraiment ! 🤍",
+    "onboardingConfiguringReviewYes": "Oui, je veux vous soutenir !",
+    "onboardingConfiguringReviewNo": "Pas vraiment"
 }

@@ -3839,5 +3839,18 @@
     "dismiss": "ปิด",
     "syncCardDownloadPercent": "{percent}%",
     "syncCardDownloadPercentSpeed": "{percent}% · {speed} KB/s",
-    "showOnLockScreen": "แสดงบนหน้าจอล็อก"
+    "showOnLockScreen": "แสดงบนหน้าจอล็อก",
+    "onboardingConfiguringTitle": "กำลังตั้งค่า Omi ของคุณ",
+    "onboardingConfiguringSubtitle": "รอสักครู่ให้ Omi ปรับให้เหมาะกับคุณ",
+    "onboardingConfiguringStepVoice": "กำลังเรียนรู้เสียงของคุณ",
+    "onboardingConfiguringStepLanguage": "กำลังปรับให้เข้ากับภาษาของคุณ",
+    "onboardingConfiguringStepMemories": "กำลังบันทึกสิ่งที่คุณแชร์",
+    "onboardingConfiguringStepGraph": "กำลังจัดระเบียบสิ่งที่สำคัญกับคุณ",
+    "onboardingConfiguringStepSummaries": "กำลังเตรียมสรุปบทสนทนาของคุณ",
+    "onboardingConfiguringStepReminders": "กำลังตั้งค่าการแจ้งเตือนอัจฉริยะ",
+    "onboardingConfiguringStepPersonalize": "กำลังปรับแต่ง Omi ของคุณ",
+    "onboardingConfiguringReviewTitle": "ระหว่างรอ ใช้ Omi มาถึงตอนนี้ถูกใจไหม?",
+    "onboardingConfiguringReviewBody": "การให้คะแนน 5 ดาวช่วยเราได้มากจริงๆ! 🤍",
+    "onboardingConfiguringReviewYes": "ใช่ อยากสนับสนุนเลย!",
+    "onboardingConfiguringReviewNo": "ไม่ค่อย"
 }

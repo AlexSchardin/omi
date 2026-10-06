@@ -12475,4 +12475,43 @@ class AppLocalizationsMk extends AppLocalizations {
 
   @override
   String get showOnLockScreen => 'Прикажи на заклучениот екран';
+
+  @override
+  String get onboardingConfiguringTitle => 'Го поставуваме вашиот Omi';
+
+  @override
+  String get onboardingConfiguringSubtitle => 'Дајте му на Omi момент за персонализација';
+
+  @override
+  String get onboardingConfiguringStepVoice => 'Го учи вашиот глас';
+
+  @override
+  String get onboardingConfiguringStepLanguage => 'Се прилагодува на вашиот јазик';
+
+  @override
+  String get onboardingConfiguringStepMemories => 'Го зачувува она што го споделивте';
+
+  @override
+  String get onboardingConfiguringStepGraph => 'Го мапира она што ви е важно';
+
+  @override
+  String get onboardingConfiguringStepSummaries => 'Ги подготвува резимеата на разговорите';
+
+  @override
+  String get onboardingConfiguringStepReminders => 'Поставува паметни потсетници';
+
+  @override
+  String get onboardingConfiguringStepPersonalize => 'Го персонализира вашиот Omi';
+
+  @override
+  String get onboardingConfiguringReviewTitle => 'Додека чекате: дали Omi ви е пријатен досега?';
+
+  @override
+  String get onboardingConfiguringReviewBody => 'Оценка со 5 ѕвезди навистина ни помага! 🤍';
+
+  @override
+  String get onboardingConfiguringReviewYes => 'Да, сакам да ве поддржам!';
+
+  @override
+  String get onboardingConfiguringReviewNo => 'Не баш';
 }

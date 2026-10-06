@@ -3839,5 +3839,18 @@
     "dismiss": "تجاهل",
     "syncCardDownloadPercent": "{percent}%",
     "syncCardDownloadPercentSpeed": "{percent}% · {speed} KB/s",
-    "showOnLockScreen": "إظهار على شاشة القفل"
+    "showOnLockScreen": "إظهار على شاشة القفل",
+    "onboardingConfiguringTitle": "جارٍ إعداد Omi",
+    "onboardingConfiguringSubtitle": "امنح Omi لحظة ليتكيّف معك",
+    "onboardingConfiguringStepVoice": "يتعلّم صوتك",
+    "onboardingConfiguringStepLanguage": "يضبط نفسه على لغتك",
+    "onboardingConfiguringStepMemories": "يحفظ ما شاركته",
+    "onboardingConfiguringStepGraph": "يرسم ما يهمّك",
+    "onboardingConfiguringStepSummaries": "يجهّز ملخصات محادثاتك",
+    "onboardingConfiguringStepReminders": "يُعدّ تذكيرات ذكية",
+    "onboardingConfiguringStepPersonalize": "يخصّص Omi لك",
+    "onboardingConfiguringReviewTitle": "أثناء الانتظار، هل كان استخدام Omi ممتعًا حتى الآن؟",
+    "onboardingConfiguringReviewBody": "تقييمك لنا بخمس نجوم يساعدنا كثيرًا! 🤍",
+    "onboardingConfiguringReviewYes": "نعم، أريد دعمكم!",
+    "onboardingConfiguringReviewNo": "ليس حقًا"
 }

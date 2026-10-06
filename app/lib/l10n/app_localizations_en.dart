@@ -12403,4 +12403,43 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get showOnLockScreen => 'Show on Lock Screen';
+
+  @override
+  String get onboardingConfiguringTitle => 'Setting up your Omi';
+
+  @override
+  String get onboardingConfiguringSubtitle => 'Give Omi a moment to personalize';
+
+  @override
+  String get onboardingConfiguringStepVoice => 'Learning your voice';
+
+  @override
+  String get onboardingConfiguringStepLanguage => 'Tuning to your language';
+
+  @override
+  String get onboardingConfiguringStepMemories => 'Saving what you shared';
+
+  @override
+  String get onboardingConfiguringStepGraph => 'Mapping what matters to you';
+
+  @override
+  String get onboardingConfiguringStepSummaries => 'Preparing your conversation summaries';
+
+  @override
+  String get onboardingConfiguringStepReminders => 'Setting up smart reminders';
+
+  @override
+  String get onboardingConfiguringStepPersonalize => 'Personalizing your Omi';
+
+  @override
+  String get onboardingConfiguringReviewTitle => 'While you wait, has Omi been nice to use so far?';
+
+  @override
+  String get onboardingConfiguringReviewBody => 'Rating us 5 stars really helps us out! 🤍';
+
+  @override
+  String get onboardingConfiguringReviewYes => 'Yes, I want to support you!';
+
+  @override
+  String get onboardingConfiguringReviewNo => 'Not really';
 }

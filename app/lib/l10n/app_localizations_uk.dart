@@ -12443,4 +12443,43 @@ class AppLocalizationsUk extends AppLocalizations {
 
   @override
   String get showOnLockScreen => 'Показувати на екрані блокування';
+
+  @override
+  String get onboardingConfiguringTitle => 'Налаштовуємо ваш Omi';
+
+  @override
+  String get onboardingConfiguringSubtitle => 'Дайте Omi хвилинку на персоналізацію';
+
+  @override
+  String get onboardingConfiguringStepVoice => 'Вивчаємо ваш голос';
+
+  @override
+  String get onboardingConfiguringStepLanguage => 'Налаштовуємося на вашу мову';
+
+  @override
+  String get onboardingConfiguringStepMemories => 'Зберігаємо те, чим ви поділилися';
+
+  @override
+  String get onboardingConfiguringStepGraph => 'Позначаємо те, що для вас важливо';
+
+  @override
+  String get onboardingConfiguringStepSummaries => 'Готуємо підсумки ваших розмов';
+
+  @override
+  String get onboardingConfiguringStepReminders => 'Налаштовуємо розумні нагадування';
+
+  @override
+  String get onboardingConfiguringStepPersonalize => 'Персоналізуємо ваш Omi';
+
+  @override
+  String get onboardingConfiguringReviewTitle => 'Поки чекаєте: чи подобається вам Omi?';
+
+  @override
+  String get onboardingConfiguringReviewBody => 'Оцінка 5 зірок дуже нам допоможе! 🤍';
+
+  @override
+  String get onboardingConfiguringReviewYes => 'Так, хочу вас підтримати!';
+
+  @override
+  String get onboardingConfiguringReviewNo => 'Не дуже';
 }

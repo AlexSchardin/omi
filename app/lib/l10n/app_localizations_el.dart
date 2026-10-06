@@ -12495,4 +12495,43 @@ class AppLocalizationsEl extends AppLocalizations {
 
   @override
   String get showOnLockScreen => 'Εμφάνιση στην οθόνη κλειδώματος';
+
+  @override
+  String get onboardingConfiguringTitle => 'Ρυθμίζουμε το Omi σας';
+
+  @override
+  String get onboardingConfiguringSubtitle => 'Δώστε στο Omi μια στιγμή για εξατομίκευση';
+
+  @override
+  String get onboardingConfiguringStepVoice => 'Μαθαίνει τη φωνή σας';
+
+  @override
+  String get onboardingConfiguringStepLanguage => 'Προσαρμόζεται στη γλώσσα σας';
+
+  @override
+  String get onboardingConfiguringStepMemories => 'Αποθηκεύει όσα μοιραστήκατε';
+
+  @override
+  String get onboardingConfiguringStepGraph => 'Χαρτογραφεί ό,τι σας ενδιαφέρει';
+
+  @override
+  String get onboardingConfiguringStepSummaries => 'Προετοιμάζει τις περιλήψεις των συνομιλιών σας';
+
+  @override
+  String get onboardingConfiguringStepReminders => 'Ρυθμίζει έξυπνες υπενθυμίσεις';
+
+  @override
+  String get onboardingConfiguringStepPersonalize => 'Εξατομικεύει το Omi σας';
+
+  @override
+  String get onboardingConfiguringReviewTitle => 'Όσο περιμένετε: σας αρέσει το Omi μέχρι στιγμής;';
+
+  @override
+  String get onboardingConfiguringReviewBody => 'Μια βαθμολογία 5 αστεριών μάς βοηθά πολύ! 🤍';
+
+  @override
+  String get onboardingConfiguringReviewYes => 'Ναι, θέλω να σας στηρίξω!';
+
+  @override
+  String get onboardingConfiguringReviewNo => 'Όχι ιδιαίτερα';
 }

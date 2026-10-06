@@ -3839,5 +3839,18 @@
     "dismiss": "Απόρριψη",
     "syncCardDownloadPercent": "{percent}%",
     "syncCardDownloadPercentSpeed": "{percent}% · {speed} KB/s",
-    "showOnLockScreen": "Εμφάνιση στην οθόνη κλειδώματος"
+    "showOnLockScreen": "Εμφάνιση στην οθόνη κλειδώματος",
+    "onboardingConfiguringTitle": "Ρυθμίζουμε το Omi σας",
+    "onboardingConfiguringSubtitle": "Δώστε στο Omi μια στιγμή για εξατομίκευση",
+    "onboardingConfiguringStepVoice": "Μαθαίνει τη φωνή σας",
+    "onboardingConfiguringStepLanguage": "Προσαρμόζεται στη γλώσσα σας",
+    "onboardingConfiguringStepMemories": "Αποθηκεύει όσα μοιραστήκατε",
+    "onboardingConfiguringStepGraph": "Χαρτογραφεί ό,τι σας ενδιαφέρει",
+    "onboardingConfiguringStepSummaries": "Προετοιμάζει τις περιλήψεις των συνομιλιών σας",
+    "onboardingConfiguringStepReminders": "Ρυθμίζει έξυπνες υπενθυμίσεις",
+    "onboardingConfiguringStepPersonalize": "Εξατομικεύει το Omi σας",
+    "onboardingConfiguringReviewTitle": "Όσο περιμένετε: σας αρέσει το Omi μέχρι στιγμής;",
+    "onboardingConfiguringReviewBody": "Μια βαθμολογία 5 αστεριών μάς βοηθά πολύ! 🤍",
+    "onboardingConfiguringReviewYes": "Ναι, θέλω να σας στηρίξω!",
+    "onboardingConfiguringReviewNo": "Όχι ιδιαίτερα"
 }

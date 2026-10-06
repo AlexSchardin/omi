@@ -12451,4 +12451,43 @@ class AppLocalizationsHr extends AppLocalizations {
 
   @override
   String get showOnLockScreen => 'Prikaži na zaključanom zaslonu';
+
+  @override
+  String get onboardingConfiguringTitle => 'Postavljamo vaš Omi';
+
+  @override
+  String get onboardingConfiguringSubtitle => 'Dajte Omiju trenutak za personalizaciju';
+
+  @override
+  String get onboardingConfiguringStepVoice => 'Učimo vaš glas';
+
+  @override
+  String get onboardingConfiguringStepLanguage => 'Prilagođavamo se vašem jeziku';
+
+  @override
+  String get onboardingConfiguringStepMemories => 'Spremamo ono što ste podijelili';
+
+  @override
+  String get onboardingConfiguringStepGraph => 'Mapiramo ono što vam je važno';
+
+  @override
+  String get onboardingConfiguringStepSummaries => 'Pripremamo sažetke vaših razgovora';
+
+  @override
+  String get onboardingConfiguringStepReminders => 'Postavljamo pametne podsjetnike';
+
+  @override
+  String get onboardingConfiguringStepPersonalize => 'Personaliziramo vaš Omi';
+
+  @override
+  String get onboardingConfiguringReviewTitle => 'Dok čekate: je li vam Omi zasad ugodan za korištenje?';
+
+  @override
+  String get onboardingConfiguringReviewBody => 'Ocjena s 5 zvjezdica stvarno nam pomaže! 🤍';
+
+  @override
+  String get onboardingConfiguringReviewYes => 'Da, želim vas podržati!';
+
+  @override
+  String get onboardingConfiguringReviewNo => 'Baš i ne';
 }

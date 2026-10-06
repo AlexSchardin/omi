@@ -12437,4 +12437,43 @@ class AppLocalizationsLt extends AppLocalizations {
 
   @override
   String get showOnLockScreen => 'Rodyti užrakinimo ekrane';
+
+  @override
+  String get onboardingConfiguringTitle => 'Nustatome jūsų Omi';
+
+  @override
+  String get onboardingConfiguringSubtitle => 'Suteikite Omi akimirką prisitaikyti';
+
+  @override
+  String get onboardingConfiguringStepVoice => 'Mokomasi jūsų balso';
+
+  @override
+  String get onboardingConfiguringStepLanguage => 'Prisiderinama prie jūsų kalbos';
+
+  @override
+  String get onboardingConfiguringStepMemories => 'Išsaugoma tai, kuo pasidalijote';
+
+  @override
+  String get onboardingConfiguringStepGraph => 'Žymima tai, kas jums svarbu';
+
+  @override
+  String get onboardingConfiguringStepSummaries => 'Ruošiamos pokalbių santraukos';
+
+  @override
+  String get onboardingConfiguringStepReminders => 'Nustatomi išmanūs priminimai';
+
+  @override
+  String get onboardingConfiguringStepPersonalize => 'Pritaikomas jūsų Omi';
+
+  @override
+  String get onboardingConfiguringReviewTitle => 'Kol laukiate: ar Omi iki šiol patinka?';
+
+  @override
+  String get onboardingConfiguringReviewBody => '5 žvaigždučių įvertinimas mums labai padeda! 🤍';
+
+  @override
+  String get onboardingConfiguringReviewYes => 'Taip, noriu jus palaikyti!';
+
+  @override
+  String get onboardingConfiguringReviewNo => 'Nelabai';
 }

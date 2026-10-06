@@ -3839,5 +3839,18 @@
     "dismiss": "Скрий",
     "syncCardDownloadPercent": "{percent}%",
     "syncCardDownloadPercentSpeed": "{percent}% · {speed} KB/s",
-    "showOnLockScreen": "Показване на заключения екран"
+    "showOnLockScreen": "Показване на заключения екран",
+    "onboardingConfiguringTitle": "Настройваме вашия Omi",
+    "onboardingConfiguringSubtitle": "Дайте на Omi момент за персонализиране",
+    "onboardingConfiguringStepVoice": "Научаваме гласа ви",
+    "onboardingConfiguringStepLanguage": "Настройваме се към езика ви",
+    "onboardingConfiguringStepMemories": "Запазваме споделеното от вас",
+    "onboardingConfiguringStepGraph": "Отбелязваме важното за вас",
+    "onboardingConfiguringStepSummaries": "Подготвяме обобщенията на разговорите ви",
+    "onboardingConfiguringStepReminders": "Настройваме умни напомняния",
+    "onboardingConfiguringStepPersonalize": "Персонализираме вашия Omi",
+    "onboardingConfiguringReviewTitle": "Докато чакате: харесва ли ви Omi досега?",
+    "onboardingConfiguringReviewBody": "Оценка с 5 звезди наистина ни помага! 🤍",
+    "onboardingConfiguringReviewYes": "Да, искам да ви подкрепя!",
+    "onboardingConfiguringReviewNo": "Не особено"
 }

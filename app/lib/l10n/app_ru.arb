@@ -3874,5 +3874,18 @@
     "dismiss": "Скрыть",
     "syncCardDownloadPercent": "{percent}%",
     "syncCardDownloadPercentSpeed": "{percent}% · {speed} KB/s",
-    "showOnLockScreen": "Показывать на экране блокировки"
+    "showOnLockScreen": "Показывать на экране блокировки",
+    "onboardingConfiguringTitle": "Настраиваем ваш Omi",
+    "onboardingConfiguringSubtitle": "Дайте Omi минутку на персонализацию",
+    "onboardingConfiguringStepVoice": "Изучаем ваш голос",
+    "onboardingConfiguringStepLanguage": "Настраиваемся на ваш язык",
+    "onboardingConfiguringStepMemories": "Сохраняем то, чем вы поделились",
+    "onboardingConfiguringStepGraph": "Отмечаем то, что для вас важно",
+    "onboardingConfiguringStepSummaries": "Готовим сводки ваших разговоров",
+    "onboardingConfiguringStepReminders": "Настраиваем умные напоминания",
+    "onboardingConfiguringStepPersonalize": "Персонализируем ваш Omi",
+    "onboardingConfiguringReviewTitle": "Пока ждёте: нравится ли вам пользоваться Omi?",
+    "onboardingConfiguringReviewBody": "Оценка в 5 звёзд очень нам поможет! 🤍",
+    "onboardingConfiguringReviewYes": "Да, хочу вас поддержать!",
+    "onboardingConfiguringReviewNo": "Не очень"
 }

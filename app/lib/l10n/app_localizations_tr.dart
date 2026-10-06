@@ -12427,4 +12427,43 @@ class AppLocalizationsTr extends AppLocalizations {
 
   @override
   String get showOnLockScreen => 'Kilit ekranında göster';
+
+  @override
+  String get onboardingConfiguringTitle => 'Omi\'niz hazırlanıyor';
+
+  @override
+  String get onboardingConfiguringSubtitle => 'Omi\'ye kişiselleştirmesi için biraz zaman tanıyın';
+
+  @override
+  String get onboardingConfiguringStepVoice => 'Sesiniz öğreniliyor';
+
+  @override
+  String get onboardingConfiguringStepLanguage => 'Dilinize uyum sağlanıyor';
+
+  @override
+  String get onboardingConfiguringStepMemories => 'Paylaştıklarınız kaydediliyor';
+
+  @override
+  String get onboardingConfiguringStepGraph => 'Sizin için önemli olanlar belirleniyor';
+
+  @override
+  String get onboardingConfiguringStepSummaries => 'Konuşma özetleriniz hazırlanıyor';
+
+  @override
+  String get onboardingConfiguringStepReminders => 'Akıllı hatırlatıcılar ayarlanıyor';
+
+  @override
+  String get onboardingConfiguringStepPersonalize => 'Omi\'niz kişiselleştiriliyor';
+
+  @override
+  String get onboardingConfiguringReviewTitle => 'Beklerken soralım: Omi\'yi şimdiye kadar beğendiniz mi?';
+
+  @override
+  String get onboardingConfiguringReviewBody => '5 yıldız vermeniz bize çok yardımcı olur! 🤍';
+
+  @override
+  String get onboardingConfiguringReviewYes => 'Evet, sizi desteklemek istiyorum!';
+
+  @override
+  String get onboardingConfiguringReviewNo => 'Pek değil';
 }

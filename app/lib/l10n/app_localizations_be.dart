@@ -12447,4 +12447,43 @@ class AppLocalizationsBe extends AppLocalizations {
 
   @override
   String get showOnLockScreen => 'Паказваць на экране блакіроўкі';
+
+  @override
+  String get onboardingConfiguringTitle => 'Наладжваем ваш Omi';
+
+  @override
+  String get onboardingConfiguringSubtitle => 'Дайце Omi хвілінку на персаналізацыю';
+
+  @override
+  String get onboardingConfiguringStepVoice => 'Вывучаем ваш голас';
+
+  @override
+  String get onboardingConfiguringStepLanguage => 'Наладжваемся на вашу мову';
+
+  @override
+  String get onboardingConfiguringStepMemories => 'Захоўваем тое, чым вы падзяліліся';
+
+  @override
+  String get onboardingConfiguringStepGraph => 'Адзначаем тое, што для вас важна';
+
+  @override
+  String get onboardingConfiguringStepSummaries => 'Рыхтуем зводкі вашых размоў';
+
+  @override
+  String get onboardingConfiguringStepReminders => 'Наладжваем разумныя напаміны';
+
+  @override
+  String get onboardingConfiguringStepPersonalize => 'Персаналізуем ваш Omi';
+
+  @override
+  String get onboardingConfiguringReviewTitle => 'Пакуль чакаеце: ці зручна вам карыстацца Omi?';
+
+  @override
+  String get onboardingConfiguringReviewBody => 'Ацэнка ў 5 зорак вельмі нам дапаможа! 🤍';
+
+  @override
+  String get onboardingConfiguringReviewYes => 'Так, хачу вас падтрымаць!';
+
+  @override
+  String get onboardingConfiguringReviewNo => 'Не вельмі';
 }

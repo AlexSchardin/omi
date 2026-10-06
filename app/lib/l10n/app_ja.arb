@@ -3839,5 +3839,18 @@
     "dismiss": "非表示",
     "syncCardDownloadPercent": "{percent}%",
     "syncCardDownloadPercentSpeed": "{percent}% · {speed} KB/s",
-    "showOnLockScreen": "ロック画面に表示"
+    "showOnLockScreen": "ロック画面に表示",
+    "onboardingConfiguringTitle": "Omiをセットアップ中",
+    "onboardingConfiguringSubtitle": "Omiがあなた向けに準備しています",
+    "onboardingConfiguringStepVoice": "あなたの声を学習中",
+    "onboardingConfiguringStepLanguage": "あなたの言語に合わせています",
+    "onboardingConfiguringStepMemories": "共有された内容を保存中",
+    "onboardingConfiguringStepGraph": "大切なことを整理中",
+    "onboardingConfiguringStepSummaries": "会話の要約を準備中",
+    "onboardingConfiguringStepReminders": "スマートリマインダーを設定中",
+    "onboardingConfiguringStepPersonalize": "Omiをパーソナライズ中",
+    "onboardingConfiguringReviewTitle": "お待ちの間に、ここまでOmiは使いやすいですか？",
+    "onboardingConfiguringReviewBody": "星5つの評価がとても励みになります！🤍",
+    "onboardingConfiguringReviewYes": "はい、応援したいです！",
+    "onboardingConfiguringReviewNo": "あまり"
 }

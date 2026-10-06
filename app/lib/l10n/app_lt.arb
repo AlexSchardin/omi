@@ -3839,5 +3839,18 @@
     "dismiss": "Slėpti",
     "syncCardDownloadPercent": "{percent}%",
     "syncCardDownloadPercentSpeed": "{percent}% · {speed} KB/s",
-    "showOnLockScreen": "Rodyti užrakinimo ekrane"
+    "showOnLockScreen": "Rodyti užrakinimo ekrane",
+    "onboardingConfiguringTitle": "Nustatome jūsų Omi",
+    "onboardingConfiguringSubtitle": "Suteikite Omi akimirką prisitaikyti",
+    "onboardingConfiguringStepVoice": "Mokomasi jūsų balso",
+    "onboardingConfiguringStepLanguage": "Prisiderinama prie jūsų kalbos",
+    "onboardingConfiguringStepMemories": "Išsaugoma tai, kuo pasidalijote",
+    "onboardingConfiguringStepGraph": "Žymima tai, kas jums svarbu",
+    "onboardingConfiguringStepSummaries": "Ruošiamos pokalbių santraukos",
+    "onboardingConfiguringStepReminders": "Nustatomi išmanūs priminimai",
+    "onboardingConfiguringStepPersonalize": "Pritaikomas jūsų Omi",
+    "onboardingConfiguringReviewTitle": "Kol laukiate: ar Omi iki šiol patinka?",
+    "onboardingConfiguringReviewBody": "5 žvaigždučių įvertinimas mums labai padeda! 🤍",
+    "onboardingConfiguringReviewYes": "Taip, noriu jus palaikyti!",
+    "onboardingConfiguringReviewNo": "Nelabai"
 }

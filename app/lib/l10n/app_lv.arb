@@ -3839,5 +3839,18 @@
     "dismiss": "Paslēpt",
     "syncCardDownloadPercent": "{percent}%",
     "syncCardDownloadPercentSpeed": "{percent}% · {speed} KB/s",
-    "showOnLockScreen": "Rādīt bloķēšanas ekrānā"
+    "showOnLockScreen": "Rādīt bloķēšanas ekrānā",
+    "onboardingConfiguringTitle": "Iestatām jūsu Omi",
+    "onboardingConfiguringSubtitle": "Dodiet Omi brīdi personalizēšanai",
+    "onboardingConfiguringStepVoice": "Mācās jūsu balsi",
+    "onboardingConfiguringStepLanguage": "Pielāgojas jūsu valodai",
+    "onboardingConfiguringStepMemories": "Saglabā to, ko pastāstījāt",
+    "onboardingConfiguringStepGraph": "Iezīmē to, kas jums svarīgs",
+    "onboardingConfiguringStepSummaries": "Sagatavo sarunu kopsavilkumus",
+    "onboardingConfiguringStepReminders": "Iestata viedos atgādinājumus",
+    "onboardingConfiguringStepPersonalize": "Personalizē jūsu Omi",
+    "onboardingConfiguringReviewTitle": "Kamēr gaidāt: vai Omi līdz šim patīk?",
+    "onboardingConfiguringReviewBody": "5 zvaigžņu vērtējums mums ļoti palīdz! 🤍",
+    "onboardingConfiguringReviewYes": "Jā, gribu jūs atbalstīt!",
+    "onboardingConfiguringReviewNo": "Ne īsti"
 }

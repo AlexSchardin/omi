@@ -12470,4 +12470,43 @@ class AppLocalizationsRo extends AppLocalizations {
 
   @override
   String get showOnLockScreen => 'Afișează pe ecranul de blocare';
+
+  @override
+  String get onboardingConfiguringTitle => 'Configurăm Omi-ul tău';
+
+  @override
+  String get onboardingConfiguringSubtitle => 'Lasă-i lui Omi un moment să se personalizeze';
+
+  @override
+  String get onboardingConfiguringStepVoice => 'Îți învață vocea';
+
+  @override
+  String get onboardingConfiguringStepLanguage => 'Se adaptează la limba ta';
+
+  @override
+  String get onboardingConfiguringStepMemories => 'Salvează ce ai împărtășit';
+
+  @override
+  String get onboardingConfiguringStepGraph => 'Cartografiază ce contează pentru tine';
+
+  @override
+  String get onboardingConfiguringStepSummaries => 'Pregătește rezumatele conversațiilor';
+
+  @override
+  String get onboardingConfiguringStepReminders => 'Configurează mementouri inteligente';
+
+  @override
+  String get onboardingConfiguringStepPersonalize => 'Personalizează Omi-ul tău';
+
+  @override
+  String get onboardingConfiguringReviewTitle => 'Cât aștepți: îți place Omi până acum?';
+
+  @override
+  String get onboardingConfiguringReviewBody => 'O notă de 5 stele ne ajută enorm! 🤍';
+
+  @override
+  String get onboardingConfiguringReviewYes => 'Da, vreau să vă susțin!';
+
+  @override
+  String get onboardingConfiguringReviewNo => 'Nu prea';
 }

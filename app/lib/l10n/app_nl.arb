@@ -3839,5 +3839,18 @@
     "dismiss": "Verbergen",
     "syncCardDownloadPercent": "{percent}%",
     "syncCardDownloadPercentSpeed": "{percent}% · {speed} KB/s",
-    "showOnLockScreen": "Toon op vergrendelscherm"
+    "showOnLockScreen": "Toon op vergrendelscherm",
+    "onboardingConfiguringTitle": "Je Omi wordt ingesteld",
+    "onboardingConfiguringSubtitle": "Geef Omi even de tijd om zich aan te passen",
+    "onboardingConfiguringStepVoice": "Je stem leren kennen",
+    "onboardingConfiguringStepLanguage": "Afstemmen op je taal",
+    "onboardingConfiguringStepMemories": "Opslaan wat je hebt gedeeld",
+    "onboardingConfiguringStepGraph": "In kaart brengen wat voor jou belangrijk is",
+    "onboardingConfiguringStepSummaries": "Je gespreksamenvattingen voorbereiden",
+    "onboardingConfiguringStepReminders": "Slimme herinneringen instellen",
+    "onboardingConfiguringStepPersonalize": "Je Omi personaliseren",
+    "onboardingConfiguringReviewTitle": "Terwijl je wacht: bevalt Omi je tot nu toe?",
+    "onboardingConfiguringReviewBody": "Een beoordeling van 5 sterren helpt ons enorm! 🤍",
+    "onboardingConfiguringReviewYes": "Ja, ik wil jullie steunen!",
+    "onboardingConfiguringReviewNo": "Niet echt"
 }

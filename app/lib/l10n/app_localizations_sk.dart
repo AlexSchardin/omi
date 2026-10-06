@@ -12411,4 +12411,43 @@ class AppLocalizationsSk extends AppLocalizations {
 
   @override
   String get showOnLockScreen => 'Zobraziť na zamknutej obrazovke';
+
+  @override
+  String get onboardingConfiguringTitle => 'Nastavujeme váš Omi';
+
+  @override
+  String get onboardingConfiguringSubtitle => 'Dajte Omi chvíľku na prispôsobenie';
+
+  @override
+  String get onboardingConfiguringStepVoice => 'Učíme sa váš hlas';
+
+  @override
+  String get onboardingConfiguringStepLanguage => 'Ladíme sa na váš jazyk';
+
+  @override
+  String get onboardingConfiguringStepMemories => 'Ukladáme, čo ste zdieľali';
+
+  @override
+  String get onboardingConfiguringStepGraph => 'Mapujeme, na čom vám záleží';
+
+  @override
+  String get onboardingConfiguringStepSummaries => 'Pripravujeme zhrnutia vašich rozhovorov';
+
+  @override
+  String get onboardingConfiguringStepReminders => 'Nastavujeme inteligentné pripomienky';
+
+  @override
+  String get onboardingConfiguringStepPersonalize => 'Prispôsobujeme váš Omi';
+
+  @override
+  String get onboardingConfiguringReviewTitle => 'Kým čakáte: páči sa vám zatiaľ Omi?';
+
+  @override
+  String get onboardingConfiguringReviewBody => 'Hodnotenie 5 hviezdičkami nám veľmi pomôže! 🤍';
+
+  @override
+  String get onboardingConfiguringReviewYes => 'Áno, chcem vás podporiť!';
+
+  @override
+  String get onboardingConfiguringReviewNo => 'Ani nie';
 }

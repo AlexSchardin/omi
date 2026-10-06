@@ -12499,4 +12499,43 @@ class AppLocalizationsTa extends AppLocalizations {
 
   @override
   String get showOnLockScreen => 'பூட்டுத் திரையில் காட்டு';
+
+  @override
+  String get onboardingConfiguringTitle => 'உங்கள் Omi அமைக்கப்படுகிறது';
+
+  @override
+  String get onboardingConfiguringSubtitle => 'தனிப்பயனாக்க Omi-க்கு சிறிது நேரம் கொடுங்கள்';
+
+  @override
+  String get onboardingConfiguringStepVoice => 'உங்கள் குரலைக் கற்றுக்கொள்கிறது';
+
+  @override
+  String get onboardingConfiguringStepLanguage => 'உங்கள் மொழிக்கு ஏற்ப மாறுகிறது';
+
+  @override
+  String get onboardingConfiguringStepMemories => 'நீங்கள் பகிர்ந்ததைச் சேமிக்கிறது';
+
+  @override
+  String get onboardingConfiguringStepGraph => 'உங்களுக்கு முக்கியமானதை வரைபடமாக்குகிறது';
+
+  @override
+  String get onboardingConfiguringStepSummaries => 'உரையாடல் சுருக்கங்களைத் தயாரிக்கிறது';
+
+  @override
+  String get onboardingConfiguringStepReminders => 'ஸ்மார்ட் நினைவூட்டல்களை அமைக்கிறது';
+
+  @override
+  String get onboardingConfiguringStepPersonalize => 'உங்கள் Omi-ஐத் தனிப்பயனாக்குகிறது';
+
+  @override
+  String get onboardingConfiguringReviewTitle => 'காத்திருக்கும்போது, இதுவரை Omi பயன்படுத்த நன்றாக இருந்ததா?';
+
+  @override
+  String get onboardingConfiguringReviewBody => '5 நட்சத்திர மதிப்பீடு எங்களுக்கு மிகவும் உதவும்! 🤍';
+
+  @override
+  String get onboardingConfiguringReviewYes => 'ஆம், உங்களை ஆதரிக்க விரும்புகிறேன்!';
+
+  @override
+  String get onboardingConfiguringReviewNo => 'அவ்வளவாக இல்லை';
 }

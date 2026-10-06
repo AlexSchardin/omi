@@ -3839,5 +3839,18 @@
     "dismiss": "Descarta",
     "syncCardDownloadPercent": "{percent}%",
     "syncCardDownloadPercentSpeed": "{percent}% · {speed} KB/s",
-    "showOnLockScreen": "Mostra a la pantalla de bloqueig"
+    "showOnLockScreen": "Mostra a la pantalla de bloqueig",
+    "onboardingConfiguringTitle": "Configurant el teu Omi",
+    "onboardingConfiguringSubtitle": "Dona a Omi un moment per personalitzar-se",
+    "onboardingConfiguringStepVoice": "Aprenent la teva veu",
+    "onboardingConfiguringStepLanguage": "Adaptant-se al teu idioma",
+    "onboardingConfiguringStepMemories": "Desant el que has compartit",
+    "onboardingConfiguringStepGraph": "Mapant el que t'importa",
+    "onboardingConfiguringStepSummaries": "Preparant els resums de les converses",
+    "onboardingConfiguringStepReminders": "Configurant recordatoris intel·ligents",
+    "onboardingConfiguringStepPersonalize": "Personalitzant el teu Omi",
+    "onboardingConfiguringReviewTitle": "Mentre esperes, t'està agradant fer servir Omi?",
+    "onboardingConfiguringReviewBody": "Valorar-nos amb 5 estrelles ens ajuda molt! 🤍",
+    "onboardingConfiguringReviewYes": "Sí, us vull donar suport!",
+    "onboardingConfiguringReviewNo": "No gaire"
 }

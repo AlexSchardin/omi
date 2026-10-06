@@ -12409,4 +12409,43 @@ class AppLocalizationsEt extends AppLocalizations {
 
   @override
   String get showOnLockScreen => 'Kuva lukustuskuval';
+
+  @override
+  String get onboardingConfiguringTitle => 'Seadistame sinu Omit';
+
+  @override
+  String get onboardingConfiguringSubtitle => 'Anna Omile hetk isikupärastamiseks';
+
+  @override
+  String get onboardingConfiguringStepVoice => 'Õpib sinu häält';
+
+  @override
+  String get onboardingConfiguringStepLanguage => 'Häälestub sinu keelele';
+
+  @override
+  String get onboardingConfiguringStepMemories => 'Salvestab, mida jagasid';
+
+  @override
+  String get onboardingConfiguringStepGraph => 'Kaardistab, mis sulle oluline on';
+
+  @override
+  String get onboardingConfiguringStepSummaries => 'Valmistab ette vestluste kokkuvõtteid';
+
+  @override
+  String get onboardingConfiguringStepReminders => 'Seadistab nutikaid meeldetuletusi';
+
+  @override
+  String get onboardingConfiguringStepPersonalize => 'Isikupärastab sinu Omit';
+
+  @override
+  String get onboardingConfiguringReviewTitle => 'Ootamise ajal: kas Omi on seni meeldinud?';
+
+  @override
+  String get onboardingConfiguringReviewBody => '5-tärni hinnang aitab meid väga! 🤍';
+
+  @override
+  String get onboardingConfiguringReviewYes => 'Jah, tahan teid toetada!';
+
+  @override
+  String get onboardingConfiguringReviewNo => 'Mitte eriti';
 }

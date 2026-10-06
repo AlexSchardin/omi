@@ -14844,5 +14844,57 @@
     "showOnLockScreen": "Show on Lock Screen",
     "@showOnLockScreen": {
         "description": "Setting for recording Live Activities on the lock screen and Dynamic Island"
+    },
+    "onboardingConfiguringTitle": "Setting up your Omi",
+    "@onboardingConfiguringTitle": {
+        "description": "Onboarding 'Setting up your Omi' screen"
+    },
+    "onboardingConfiguringSubtitle": "Give Omi a moment to personalize",
+    "@onboardingConfiguringSubtitle": {
+        "description": "Onboarding 'Setting up your Omi' screen"
+    },
+    "onboardingConfiguringStepVoice": "Learning your voice",
+    "@onboardingConfiguringStepVoice": {
+        "description": "Onboarding 'Setting up your Omi' screen"
+    },
+    "onboardingConfiguringStepLanguage": "Tuning to your language",
+    "@onboardingConfiguringStepLanguage": {
+        "description": "Onboarding 'Setting up your Omi' screen"
+    },
+    "onboardingConfiguringStepMemories": "Saving what you shared",
+    "@onboardingConfiguringStepMemories": {
+        "description": "Onboarding 'Setting up your Omi' screen"
+    },
+    "onboardingConfiguringStepGraph": "Mapping what matters to you",
+    "@onboardingConfiguringStepGraph": {
+        "description": "Onboarding 'Setting up your Omi' screen"
+    },
+    "onboardingConfiguringStepSummaries": "Preparing your conversation summaries",
+    "@onboardingConfiguringStepSummaries": {
+        "description": "Onboarding 'Setting up your Omi' screen"
+    },
+    "onboardingConfiguringStepReminders": "Setting up smart reminders",
+    "@onboardingConfiguringStepReminders": {
+        "description": "Onboarding 'Setting up your Omi' screen"
+    },
+    "onboardingConfiguringStepPersonalize": "Personalizing your Omi",
+    "@onboardingConfiguringStepPersonalize": {
+        "description": "Onboarding 'Setting up your Omi' screen"
+    },
+    "onboardingConfiguringReviewTitle": "While you wait, has Omi been nice to use so far?",
+    "@onboardingConfiguringReviewTitle": {
+        "description": "Onboarding 'Setting up your Omi' screen"
+    },
+    "onboardingConfiguringReviewBody": "Rating us 5 stars really helps us out! 🤍",
+    "@onboardingConfiguringReviewBody": {
+        "description": "Onboarding 'Setting up your Omi' screen"
+    },
+    "onboardingConfiguringReviewYes": "Yes, I want to support you!",
+    "@onboardingConfiguringReviewYes": {
+        "description": "Onboarding 'Setting up your Omi' screen"
+    },
+    "onboardingConfiguringReviewNo": "Not really",
+    "@onboardingConfiguringReviewNo": {
+        "description": "Onboarding 'Setting up your Omi' screen"
     }
 }

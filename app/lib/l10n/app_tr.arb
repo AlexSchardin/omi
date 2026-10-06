@@ -3874,5 +3874,18 @@
     "dismiss": "Gizle",
     "syncCardDownloadPercent": "{percent}%",
     "syncCardDownloadPercentSpeed": "{percent}% · {speed} KB/s",
-    "showOnLockScreen": "Kilit ekranında göster"
+    "showOnLockScreen": "Kilit ekranında göster",
+    "onboardingConfiguringTitle": "Omi'niz hazırlanıyor",
+    "onboardingConfiguringSubtitle": "Omi'ye kişiselleştirmesi için biraz zaman tanıyın",
+    "onboardingConfiguringStepVoice": "Sesiniz öğreniliyor",
+    "onboardingConfiguringStepLanguage": "Dilinize uyum sağlanıyor",
+    "onboardingConfiguringStepMemories": "Paylaştıklarınız kaydediliyor",
+    "onboardingConfiguringStepGraph": "Sizin için önemli olanlar belirleniyor",
+    "onboardingConfiguringStepSummaries": "Konuşma özetleriniz hazırlanıyor",
+    "onboardingConfiguringStepReminders": "Akıllı hatırlatıcılar ayarlanıyor",
+    "onboardingConfiguringStepPersonalize": "Omi'niz kişiselleştiriliyor",
+    "onboardingConfiguringReviewTitle": "Beklerken soralım: Omi'yi şimdiye kadar beğendiniz mi?",
+    "onboardingConfiguringReviewBody": "5 yıldız vermeniz bize çok yardımcı olur! 🤍",
+    "onboardingConfiguringReviewYes": "Evet, sizi desteklemek istiyorum!",
+    "onboardingConfiguringReviewNo": "Pek değil"
 }
